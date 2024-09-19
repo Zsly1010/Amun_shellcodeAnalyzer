@@ -1,0 +1,12 @@
+2024-08-21 18:52:23,021 INFO [vuln_check] CHECK (192.168.92.129) Incoming: ipconfig
+ (Bytes: 10)
+2024-08-21 18:52:47,945 INFO [vuln_check] CHECK (192.168.92.129) Incoming: ifconfig
+ (Bytes: 10)
+2024-08-21 18:54:43,506 INFO [vuln_check] CHECK (192.168.92.129) Incoming: whoami
+ (Bytes: 8)
+2024-08-21 18:56:49,483 INFO [vuln_check] CHECK (192.168.92.129) Incoming: whoami
+ (Bytes: 8)
+2024-08-21 19:01:08,881 INFO [vuln_check] CHECK (192.168.92.129) Incoming: uname -a
+ (Bytes: 10)
+2024-08-21 19:03:43,039 INFO [vuln_check] CHECK (192.168.92.129) Incoming: uname -a
+ (Bytes: 10)

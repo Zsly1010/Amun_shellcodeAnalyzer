@@ -1,0 +1,16 @@
+2024-09-16 11:04:33,048 INFO [vuln_check] CHECK (192.168.92.129) Incoming: ifconfig
+ (Bytes: 10)
+2024-09-16 11:05:52,719 INFO [vuln_check] CHECK (192.168.92.129) Incoming: ÿôÿý (Bytes: 5)
+2024-09-16 11:06:08,759 INFO [vuln_check] CHECK (192.168.92.129) Incoming: ifconfig
+ (Bytes: 10)
+2024-09-16 11:06:25,273 INFO [vuln_check] CHECK (192.168.92.129) Incoming: whoami
+ (Bytes: 8)
+2024-09-16 11:07:03,355 INFO [vuln_check] CHECK (192.168.92.129) Incoming: ls
+ (Bytes: 4)
+2024-09-16 11:07:29,461 INFO [vuln_check] CHECK (192.168.92.129) Incoming: ipconfig
+ (Bytes: 10)
+2024-09-16 11:07:34,459 INFO [vuln_check] CHECK (192.168.92.129) Incoming: ifconfig
+ (Bytes: 10)
+2024-09-16 11:07:44,288 INFO [vuln_check] CHECK (192.168.92.129) Incoming: ÿôÿý (Bytes: 5)
+2024-09-16 11:07:48,585 INFO [vuln_check] CHECK (192.168.92.129) Incoming:  (Bytes: 1)
+2024-09-16 11:07:49,258 INFO [vuln_check] CHECK (192.168.92.129) Incoming:  (Bytes: 150)
