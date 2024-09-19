@@ -1,0 +1,662 @@
+2024-06-27 18:23:43,234 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ÿý&ÿû&ÿýÿûÿûÿû ÿû!ÿû"ÿû'ÿýÿû# (Bytes: 33)
+2024-06-27 18:23:59,779 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ÿíÿýÿíÿý
+
+
+
+ÿíÿýÿíÿýÿôÿý (Bytes: 33)
+2024-06-29 09:55:45,538 INFO [vuln_ftpd] Attacker: 127.0.0.1 Message: ['USER wangzhihui\r\n'] Bytes: 17 Stage: FTPD_STAGE1
+2024-06-29 09:55:50,906 INFO [vuln_ftpd] Attacker: 127.0.0.1 Message: ['PASS wangzhihui\r\n'] Bytes: 17 Stage: FTPD_STAGE1
+2024-06-29 09:55:50,906 INFO [vuln_ftpd] Attacker: 127.0.0.1 Message: ['SYST\r\n'] Bytes: 6 Stage: FTPD_STAGE2
+2024-06-29 09:55:50,906 INFO [vuln_ftpd] Attacker: 127.0.0.1 Message: ['FEAT\r\n'] Bytes: 6 Stage: FTPD_STAGE2
+2024-06-29 10:48:59,222 INFO [vuln_ftpd] Attacker: 127.0.0.1 Message: ['USER mist\r\n'] Bytes: 11 Stage: FTPD_STAGE1
+2024-06-29 10:49:04,945 INFO [vuln_ftpd] Attacker: 127.0.0.1 Message: ['PASS \r\n'] Bytes: 7 Stage: FTPD_STAGE1
+2024-06-29 10:49:05,168 INFO [vuln_ftpd] Attacker: 127.0.0.1 Message: ['SYST\r\n'] Bytes: 6 Stage: FTPD_STAGE2
+2024-06-29 10:49:05,178 INFO [vuln_ftpd] Attacker: 127.0.0.1 Message: ['FEAT\r\n'] Bytes: 6 Stage: FTPD_STAGE2
+2024-06-29 10:49:25,053 INFO [vuln_ftpd] Attacker: 127.0.0.1 Message: ['MKD newdir\r\n'] Bytes: 12 Stage: FTPD_STAGE2
+2024-06-29 10:49:31,067 INFO [vuln_ftpd] Attacker: 127.0.0.1 Message: ['CWD newdir\r\n'] Bytes: 12 Stage: FTPD_STAGE2
+2024-06-29 10:49:38,005 INFO [vuln_ftpd] Attacker: 127.0.0.1 Message: ['EPSV\r\n'] Bytes: 6 Stage: FTPD_STAGE2
+2024-06-29 10:49:38,005 INFO [vuln_ftpd] Attacker: 127.0.0.1 Message: ['PASV\r\n'] Bytes: 6 Stage: FTPD_STAGE2
+2024-06-29 10:49:38,006 INFO [vuln_ftpd] Attacker: 127.0.0.1 Message: ['PORT 127,0,0,1,213,231\r\n'] Bytes: 24 Stage: FTPD_STAGE2
+2024-06-29 10:50:11,057 INFO [vuln_ftpd] Attacker: 127.0.0.1 Message: ['RMD newdir\r\n'] Bytes: 12 Stage: FTPD_STAGE2
+2024-06-29 10:50:13,731 INFO [vuln_ftpd] Attacker: 127.0.0.1 Message: ['PORT 127,0,0,1,152,161\r\n'] Bytes: 24 Stage: FTPD_STAGE2
+2024-06-29 11:45:59,515 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-06-29 11:46:11,015 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ipconfig
+ (Bytes: 10)
+2024-06-29 11:46:35,913 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ÿíÿý (Bytes: 5)
+2024-06-29 11:46:36,704 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ÿôÿý (Bytes: 5)
+2024-06-29 11:46:38,533 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ÿíÿý (Bytes: 5)
+2024-06-29 11:46:38,751 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ÿíÿý (Bytes: 5)
+2024-06-29 11:46:40,544 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sdasdasdasd
+ (Bytes: 13)
+2024-06-29 11:46:41,050 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-06-29 11:46:41,298 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-06-29 11:46:41,488 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-06-29 11:46:41,662 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-06-29 11:46:47,613 INFO [vuln_check] CHECK (127.0.0.1) Incoming: hello
+ (Bytes: 7)
+2024-06-29 12:09:54,706 INFO [vuln_ftpd] Attacker: 127.0.0.1 Message: ['USER mist\r\n'] Bytes: 11 Stage: FTPD_STAGE1
+2024-06-29 12:09:58,050 INFO [vuln_ftpd] Attacker: 127.0.0.1 Message: ['PASS \r\n'] Bytes: 7 Stage: FTPD_STAGE1
+2024-06-29 12:09:58,050 INFO [vuln_ftpd] Attacker: 127.0.0.1 Message: ['SYST\r\n'] Bytes: 6 Stage: FTPD_STAGE2
+2024-06-29 12:09:58,051 INFO [vuln_ftpd] Attacker: 127.0.0.1 Message: ['FEAT\r\n'] Bytes: 6 Stage: FTPD_STAGE2
+2024-06-29 12:10:12,899 INFO [vuln_ftpd] Attacker: 127.0.0.1 Message: ['EPSV\r\n'] Bytes: 6 Stage: FTPD_STAGE2
+2024-06-29 12:10:12,900 INFO [vuln_ftpd] Attacker: 127.0.0.1 Message: ['PASV\r\n'] Bytes: 6 Stage: FTPD_STAGE2
+2024-06-29 12:10:12,900 INFO [vuln_ftpd] Attacker: 127.0.0.1 Message: ['PORT 127,0,0,1,215,139\r\n'] Bytes: 24 Stage: FTPD_STAGE2
+2024-06-29 12:11:19,924 INFO [vuln_ftpd] Attacker: 127.0.0.1 Message: ['MKD newdir\r\n'] Bytes: 12 Stage: FTPD_STAGE2
+2024-06-29 12:11:26,340 INFO [vuln_ftpd] Attacker: 127.0.0.1 Message: ['CWD newdir\r\n'] Bytes: 12 Stage: FTPD_STAGE2
+2024-06-29 12:11:35,262 INFO [vuln_ftpd] Attacker: 127.0.0.1 Message: ['PORT 127,0,0,1,179,197\r\n'] Bytes: 24 Stage: FTPD_STAGE2
+2024-06-29 12:11:42,055 INFO [vuln_ftpd] Attacker: 127.0.0.1 Message: ['RMD newdir\r\n'] Bytes: 12 Stage: FTPD_STAGE2
+2024-06-29 12:11:50,798 INFO [vuln_ftpd] Attacker: 127.0.0.1 Message: ['QUIT\r\n'] Bytes: 6 Stage: FTPD_STAGE2
+2024-06-29 13:03:51,422 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ÿý&ÿû&ÿýÿûÿûÿû ÿû!ÿû"ÿû'ÿýÿû# (Bytes: 33)
+2024-06-29 13:03:57,799 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ipconfig
+ (Bytes: 10)
+2024-06-29 13:09:45,100 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ipconfig
+ (Bytes: 10)
+2024-06-29 13:10:56,922 INFO [vuln_check] CHECK (127.0.0.1) Incoming: dir
+ (Bytes: 5)
+2024-06-29 13:11:06,326 INFO [vuln_check] CHECK (127.0.0.1) Incoming: qiut
+ (Bytes: 6)
+2024-06-29 14:52:01,951 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ÿý&ÿû&ÿýÿûÿûÿû ÿû!ÿû"ÿû'ÿýÿû# (Bytes: 33)
+2024-06-29 14:52:40,549 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ipconfig
+ (Bytes: 10)
+2024-06-29 15:07:04,618 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ipconfig
+ (Bytes: 10)
+2024-06-29 15:08:25,180 INFO [vuln_check] CHECK (127.0.0.1) Incoming: dir
+ (Bytes: 5)
+2024-06-29 16:39:48,832 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ipconfig
+ (Bytes: 10)
+2024-06-29 16:57:40,623 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ipconfig
+ (Bytes: 10)
+2024-06-29 17:10:28,910 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ipconfig
+ (Bytes: 10)
+2024-06-29 17:14:23,187 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ipconfig
+ (Bytes: 10)
+2024-06-29 18:26:00,779 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ipconfig
+ (Bytes: 10)
+2024-06-29 18:32:17,328 INFO [vuln_check] CHECK (127.0.0.1) Incoming: netset
+ (Bytes: 8)
+2024-06-29 18:34:09,759 INFO [vuln_check] CHECK (127.0.0.1) Incoming: neasd
+ (Bytes: 7)
+2024-06-29 18:34:28,089 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sdasd
+ (Bytes: 7)
+2024-06-29 18:35:01,387 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ÿôÿý (Bytes: 5)
+2024-06-29 18:39:12,595 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sad
+ (Bytes: 5)
+2024-06-29 18:40:08,988 INFO [vuln_check] CHECK (127.0.0.1) Incoming: asda
+ (Bytes: 6)
+2024-06-29 18:42:27,783 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ipconfig
+ (Bytes: 10)
+2024-06-29 18:48:51,386 INFO [vuln_check] CHECK (127.0.0.1) Incoming: jjjj
+ (Bytes: 6)
+2024-06-29 18:50:38,523 INFO [vuln_check] CHECK (127.0.0.1) Incoming: jjj
+ (Bytes: 5)
+2024-06-29 18:51:02,744 INFO [vuln_check] CHECK (127.0.0.1) Incoming: jjj
+ (Bytes: 5)
+2024-06-29 18:55:30,386 INFO [vuln_check] CHECK (127.0.0.1) Incoming: dasda
+ (Bytes: 7)
+2024-06-29 19:01:32,453 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ss
+ (Bytes: 4)
+2024-06-29 19:08:33,066 INFO [vuln_check] CHECK (127.0.0.1) Incoming: dsdsdsd
+ (Bytes: 9)
+2024-06-29 19:08:41,328 INFO [vuln_check] CHECK (127.0.0.1) Incoming: [D[D[D[D[D[D[B[Bdasdads
+ (Bytes: 33)
+2024-06-29 19:09:25,467 INFO [vuln_check] CHECK (127.0.0.1) Incoming: netsasd
+ (Bytes: 9)
+2024-06-29 19:14:53,338 INFO [vuln_check] CHECK (127.0.0.1) Incoming: asdasd
+ (Bytes: 8)
+2024-06-29 19:15:59,411 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sdasd
+ (Bytes: 7)
+2024-06-29 19:16:48,579 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sadasd
+ (Bytes: 8)
+2024-06-29 19:17:24,785 INFO [vuln_check] CHECK (127.0.0.1) Incoming: asd
+ (Bytes: 5)
+2024-06-29 19:17:54,550 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ifconfig
+ (Bytes: 10)
+2024-06-29 19:18:01,511 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ipconfig
+ (Bytes: 10)
+2024-06-29 19:21:53,749 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sadas
+ (Bytes: 7)
+2024-06-29 19:31:57,819 INFO [vuln_check] CHECK (127.0.0.1) Incoming: asda
+ (Bytes: 6)
+2024-06-29 19:33:19,173 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sad
+ (Bytes: 5)
+2024-06-29 19:34:14,945 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sad
+ (Bytes: 5)
+2024-06-29 19:35:14,980 INFO [vuln_check] CHECK (127.0.0.1) Incoming: as
+ (Bytes: 4)
+2024-06-29 19:35:51,532 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sad
+ (Bytes: 5)
+2024-06-29 19:41:23,774 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ipconfig
+ (Bytes: 10)
+2024-06-29 19:41:33,813 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ipconfig
+ (Bytes: 10)
+2024-06-29 19:43:51,605 INFO [vuln_check] CHECK (127.0.0.1) Incoming: cs ..
+ (Bytes: 7)
+2024-06-29 19:43:59,963 INFO [vuln_check] CHECK (127.0.0.1) Incoming: cd..
+ (Bytes: 6)
+2024-06-29 19:44:08,151 INFO [vuln_check] CHECK (127.0.0.1) Incoming: cd.
+ (Bytes: 5)
+2024-06-29 19:44:26,260 INFO [vuln_check] CHECK (127.0.0.1) Incoming: cdWINNT
+ (Bytes: 9)
+2024-06-29 19:44:42,274 INFO [vuln_check] CHECK (127.0.0.1) Incoming: cd System32
+ (Bytes: 13)
+2024-06-29 19:44:54,446 INFO [vuln_check] CHECK (127.0.0.1) Incoming: cd WINIT
+ (Bytes: 10)
+2024-06-29 19:45:10,988 INFO [vuln_check] CHECK (127.0.0.1) Incoming: cd cdsd
+ (Bytes: 9)
+2024-06-29 19:45:13,870 INFO [vuln_check] CHECK (127.0.0.1) Incoming: cdsc
+ (Bytes: 6)
+2024-06-29 19:45:29,471 INFO [vuln_check] CHECK (127.0.0.1) Incoming: cd .
+ (Bytes: 6)
+2024-06-29 19:45:36,514 INFO [vuln_check] CHECK (127.0.0.1) Incoming: cd ..
+ (Bytes: 7)
+2024-06-29 19:45:43,460 INFO [vuln_check] CHECK (127.0.0.1) Incoming: cd System
+ (Bytes: 11)
+2024-06-29 19:46:18,176 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ÿíÿý (Bytes: 5)
+2024-06-29 19:46:26,226 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-06-29 19:46:26,432 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-06-29 21:24:54,367 INFO [vuln_check] CHECK (127.0.0.1) Incoming: dir 
+ (Bytes: 6)
+2024-06-29 21:28:33,184 INFO [vuln_check] CHECK (127.0.0.1) Incoming: net
+ (Bytes: 5)
+2024-06-29 21:30:22,133 INFO [vuln_check] CHECK (127.0.0.1) Incoming: net
+ (Bytes: 5)
+2024-06-29 21:30:44,896 INFO [vuln_check] CHECK (127.0.0.1) Incoming: netstat
+ (Bytes: 9)
+2024-06-29 21:32:07,890 INFO [vuln_check] CHECK (127.0.0.1) Incoming: net user
+ (Bytes: 10)
+2024-06-29 21:36:03,106 INFO [vuln_check] CHECK (127.0.0.1) Incoming:  cd .
+ (Bytes: 7)
+2024-06-29 21:36:05,985 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ÿíÿý (Bytes: 5)
+2024-06-29 21:36:10,117 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-06-29 21:36:33,503 INFO [vuln_check] CHECK (127.0.0.1) Incoming: cd.
+ (Bytes: 5)
+2024-06-29 21:36:56,042 INFO [vuln_check] CHECK (127.0.0.1) Incoming:  cd .
+ (Bytes: 7)
+2024-06-29 21:37:06,690 INFO [vuln_check] CHECK (127.0.0.1) Incoming: cd.
+ (Bytes: 5)
+2024-06-29 21:37:20,516 INFO [vuln_check] CHECK (127.0.0.1) Incoming: cd..
+ (Bytes: 6)
+2024-06-29 21:38:22,545 INFO [vuln_check] CHECK (127.0.0.1) Incoming: cd..
+ (Bytes: 6)
+2024-06-29 21:38:44,867 INFO [vuln_check] CHECK (127.0.0.1) Incoming: cd WINNT
+ (Bytes: 10)
+2024-06-29 21:39:13,112 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ÿôÿý (Bytes: 5)
+2024-06-29 21:39:24,159 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-06-29 21:39:25,156 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-06-29 21:39:29,387 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ÿíÿý (Bytes: 5)
+2024-06-29 21:39:38,490 INFO [vuln_check] CHECK (127.0.0.1) Incoming: cd \\windows
+ (Bytes: 14)
+2024-06-29 21:40:05,226 INFO [vuln_check] CHECK (127.0.0.1) Incoming: cd \system
+ (Bytes: 12)
+2024-06-29 21:40:13,105 INFO [vuln_check] CHECK (127.0.0.1) Incoming: eixt
+ (Bytes: 6)
+2024-06-29 21:40:29,054 INFO [vuln_check] CHECK (127.0.0.1) Incoming: cd \WINDOWS
+ (Bytes: 13)
+2024-06-29 21:41:31,209 INFO [vuln_check] CHECK (127.0.0.1) Incoming:  cd new.text
+ (Bytes: 14)
+2024-06-29 21:42:07,027 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ipconfig
+ (Bytes: 10)
+2024-06-29 21:43:06,765 INFO [vuln_check] CHECK (127.0.0.1) Incoming: asdasdasd
+ (Bytes: 11)
+2024-07-01 09:14:33,261 INFO [vuln_check] CHECK (127.0.0.1) Incoming: cd amun
+ (Bytes: 9)
+2024-07-01 09:32:26,727 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ssss
+ (Bytes: 6)
+2024-07-01 09:32:28,715 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sss
+ (Bytes: 5)
+2024-07-01 09:40:39,818 INFO [vuln_check] CHECK (127.0.0.1) Incoming: nnnn
+ (Bytes: 6)
+2024-07-01 09:49:27,329 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sss
+ (Bytes: 5)
+2024-07-01 10:02:02,259 INFO [vuln_check] CHECK (127.0.0.1) Incoming: asd
+ (Bytes: 5)
+2024-07-01 10:07:43,031 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sdasd
+ (Bytes: 7)
+2024-07-01 10:07:49,710 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sdad
+ (Bytes: 6)
+2024-07-01 10:11:03,331 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sdasd
+ (Bytes: 7)
+2024-07-07 12:05:33,536 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 12:05:34,019 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 12:05:34,707 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 12:05:35,137 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 12:05:35,315 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 12:05:35,465 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 12:05:35,631 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 12:05:35,979 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 12:05:36,307 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 12:05:44,539 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ipconfig
+ (Bytes: 10)
+2024-07-07 12:06:01,231 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ipcofog
+ (Bytes: 9)
+2024-07-07 12:06:16,777 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ifconfig
+ (Bytes: 10)
+2024-07-07 12:08:29,774 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ÿíÿý (Bytes: 5)
+2024-07-07 12:08:32,000 INFO [vuln_check] CHECK (127.0.0.1) Incoming: eixt
+ (Bytes: 6)
+2024-07-07 12:08:33,652 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 12:08:33,854 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 12:08:33,990 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 12:08:34,166 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 12:08:43,594 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sdasd
+
+
+
+ (Bytes: 13)
+2024-07-07 12:08:43,650 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 12:08:46,840 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 12:08:47,012 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 12:08:47,174 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 12:08:47,346 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 12:08:47,884 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 12:11:04,535 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ÿíÿý (Bytes: 5)
+2024-07-07 12:11:21,529 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ifconfig
+ (Bytes: 10)
+2024-07-07 12:11:44,427 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ipconfig
+ (Bytes: 10)
+2024-07-07 12:11:46,027 INFO [vuln_check] CHECK (127.0.0.1) Incoming: odood
+ (Bytes: 7)
+2024-07-07 12:11:50,667 INFO [vuln_check] CHECK (127.0.0.1) Incoming: nono
+ (Bytes: 6)
+2024-07-07 12:11:54,849 INFO [vuln_check] CHECK (127.0.0.1) Incoming: cd
+ (Bytes: 4)
+2024-07-07 12:11:59,186 INFO [vuln_check] CHECK (127.0.0.1) Incoming: cd
+ (Bytes: 4)
+2024-07-07 12:12:02,055 INFO [vuln_check] CHECK (127.0.0.1) Incoming: op
+ (Bytes: 4)
+2024-07-07 12:14:45,176 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ifconfig
+ (Bytes: 10)
+2024-07-07 12:14:51,436 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ipconfig
+ (Bytes: 10)
+2024-07-07 12:15:01,290 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ii
+ (Bytes: 4)
+2024-07-07 12:15:03,298 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ppp
+ (Bytes: 5)
+2024-07-07 15:19:36,753 INFO [vuln_check] CHECK (127.0.0.1) Incoming: asdasd
+ (Bytes: 8)
+2024-07-07 15:20:39,334 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 15:20:39,774 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 15:20:40,180 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 15:20:40,580 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 15:20:41,264 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 15:20:41,424 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 15:20:41,618 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 15:20:42,082 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 15:21:00,654 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ifconfig
+ (Bytes: 10)
+2024-07-07 15:21:05,022 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ipcongi
+ (Bytes: 9)
+2024-07-07 15:22:16,366 INFO [vuln_check] CHECK (127.0.0.1) Incoming: dasda
+ (Bytes: 7)
+2024-07-07 15:22:17,403 INFO [vuln_check] CHECK (127.0.0.1) Incoming: asdad
+ (Bytes: 7)
+2024-07-07 15:22:35,563 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ssss
+ (Bytes: 6)
+2024-07-07 15:22:37,373 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sss
+ (Bytes: 5)
+2024-07-07 15:22:38,579 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sssss
+ (Bytes: 7)
+2024-07-07 15:22:38,779 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 15:22:39,571 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ssss
+ (Bytes: 6)
+2024-07-07 15:22:39,739 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 15:22:39,895 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 15:22:40,057 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 15:22:40,221 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 15:22:40,665 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 15:22:40,807 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 15:22:40,959 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 15:23:42,246 INFO [vuln_check] CHECK (127.0.0.1) Incoming: of
+ (Bytes: 4)
+2024-07-07 15:23:44,259 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 15:23:45,461 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sdasd
+ (Bytes: 7)
+2024-07-07 15:23:48,922 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ipconfig
+ (Bytes: 10)
+2024-07-07 15:24:53,406 INFO [vuln_check] CHECK (127.0.0.1) Incoming: hello
+ (Bytes: 7)
+2024-07-07 15:29:08,132 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ipconfig
+ (Bytes: 10)
+2024-07-07 15:29:11,396 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 15:29:11,727 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 15:29:12,178 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 15:29:12,556 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 15:29:12,772 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 15:29:12,963 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 15:29:13,122 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 15:29:13,264 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 15:29:13,421 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 15:29:13,938 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 15:29:14,671 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 15:29:14,838 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 15:30:45,080 INFO [vuln_check] CHECK (127.0.0.1) Incoming: welcome
+ (Bytes: 9)
+2024-07-07 15:33:26,001 INFO [vuln_check] CHECK (127.0.0.1) Incoming: hello
+ (Bytes: 7)
+2024-07-07 15:34:44,295 INFO [vuln_check] CHECK (127.0.0.1) Incoming: www
+ (Bytes: 5)
+2024-07-07 15:34:46,495 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ww
+ (Bytes: 4)
+2024-07-07 15:34:47,779 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 15:34:48,669 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ww
+ (Bytes: 4)
+2024-07-07 15:35:52,657 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ipconfig
+ (Bytes: 10)
+2024-07-07 15:41:05,260 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sss
+ (Bytes: 5)
+2024-07-07 15:41:09,918 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sss
+ (Bytes: 5)
+2024-07-07 15:41:19,082 INFO [vuln_check] CHECK (127.0.0.1) Incoming: eee
+ (Bytes: 5)
+2024-07-07 15:41:20,262 INFO [vuln_check] CHECK (127.0.0.1) Incoming: eee
+ (Bytes: 5)
+2024-07-07 15:41:24,510 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ifcongif
+ (Bytes: 10)
+2024-07-07 15:41:33,906 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ifconfig
+ (Bytes: 10)
+2024-07-07 15:41:39,470 INFO [vuln_check] CHECK (127.0.0.1) Incoming: net
+ (Bytes: 5)
+2024-07-07 15:41:45,244 INFO [vuln_check] CHECK (127.0.0.1) Incoming: net me
+ (Bytes: 8)
+2024-07-07 15:41:48,858 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ls
+ (Bytes: 4)
+2024-07-07 15:41:56,126 INFO [vuln_check] CHECK (127.0.0.1) Incoming: netstat
+ (Bytes: 9)
+2024-07-07 15:42:25,479 INFO [vuln_check] CHECK (127.0.0.1) Incoming: netstat
+ (Bytes: 9)
+2024-07-07 15:43:01,561 INFO [vuln_check] CHECK (127.0.0.1) Incoming: netstat -an
+ (Bytes: 13)
+2024-07-07 15:45:28,993 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ipconfig
+ (Bytes: 10)
+2024-07-07 15:47:09,018 INFO [vuln_check] CHECK (127.0.0.1) Incoming: www
+ (Bytes: 5)
+2024-07-07 15:47:10,754 INFO [vuln_check] CHECK (127.0.0.1) Incoming: www
+ (Bytes: 5)
+2024-07-07 15:47:12,124 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ccc
+ (Bytes: 5)
+2024-07-07 15:47:13,444 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ddd
+ (Bytes: 5)
+2024-07-07 15:47:14,732 INFO [vuln_check] CHECK (127.0.0.1) Incoming: aaa
+ (Bytes: 5)
+2024-07-07 15:48:16,796 INFO [vuln_check] CHECK (127.0.0.1) Incoming: dddd
+ (Bytes: 6)
+2024-07-07 15:48:18,619 INFO [vuln_check] CHECK (127.0.0.1) Incoming: adada
+ (Bytes: 7)
+2024-07-07 15:48:23,613 INFO [vuln_check] CHECK (127.0.0.1) Incoming: dasd
+ (Bytes: 6)
+2024-07-07 15:49:30,663 INFO [vuln_check] CHECK (127.0.0.1) Incoming: www
+ (Bytes: 5)
+2024-07-07 15:49:31,953 INFO [vuln_check] CHECK (127.0.0.1) Incoming: www
+ (Bytes: 5)
+2024-07-07 15:49:33,049 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ddd
+ (Bytes: 5)
+2024-07-07 15:50:01,513 INFO [vuln_check] CHECK (127.0.0.1) Incoming: dsda
+ (Bytes: 6)
+2024-07-07 15:50:02,665 INFO [vuln_check] CHECK (127.0.0.1) Incoming: dasdad
+ (Bytes: 8)
+2024-07-07 15:50:08,009 INFO [vuln_check] CHECK (127.0.0.1) Incoming: net -an
+ (Bytes: 9)
+2024-07-07 15:50:13,884 INFO [vuln_check] CHECK (127.0.0.1) Incoming: netstat -an
+ (Bytes: 13)
+2024-07-07 15:50:42,539 INFO [vuln_check] CHECK (127.0.0.1) Incoming: asdadadadadaddd
+ (Bytes: 17)
+2024-07-07 15:50:45,126 INFO [vuln_check] CHECK (127.0.0.1) Incoming: eeeee
+ (Bytes: 7)
+2024-07-07 15:50:46,334 INFO [vuln_check] CHECK (127.0.0.1) Incoming: eee
+ (Bytes: 5)
+2024-07-07 15:50:47,016 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ee
+ (Bytes: 4)
+2024-07-07 15:50:47,540 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-07 15:50:48,526 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ee
+ (Bytes: 4)
+2024-07-07 16:45:46,903 INFO [vuln_check] CHECK (127.0.0.1) Incoming: eee
+ (Bytes: 5)
+2024-07-07 16:45:49,039 INFO [vuln_check] CHECK (127.0.0.1) Incoming: eeee
+ (Bytes: 6)
+2024-07-07 16:45:52,231 INFO [vuln_check] CHECK (127.0.0.1) Incoming: eeee
+ (Bytes: 6)
+2024-07-07 16:46:37,244 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ss
+ (Bytes: 4)
+2024-07-07 16:46:43,098 INFO [vuln_check] CHECK (127.0.0.1) Incoming: eee
+ (Bytes: 5)
+2024-07-07 16:47:30,822 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ww
+ (Bytes: 4)
+2024-07-07 16:47:32,376 INFO [vuln_check] CHECK (127.0.0.1) Incoming: www
+ (Bytes: 5)
+2024-07-07 16:47:33,430 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ww
+ (Bytes: 4)
+2024-07-07 16:49:16,707 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sdasd
+ (Bytes: 7)
+2024-07-07 16:50:41,501 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sss
+ (Bytes: 5)
+2024-07-07 16:50:42,737 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sss
+ (Bytes: 5)
+2024-07-07 17:52:18,573 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ssss
+ (Bytes: 6)
+2024-07-07 17:52:19,946 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sss
+ (Bytes: 5)
+2024-07-07 17:52:27,468 INFO [vuln_check] CHECK (127.0.0.1) Incoming: eee
+ (Bytes: 5)
+2024-07-07 19:24:16,870 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ss
+ (Bytes: 4)
+2024-07-07 19:27:49,365 INFO [vuln_check] CHECK (127.0.0.1) Incoming: dsd
+ (Bytes: 5)
+2024-07-07 19:27:52,234 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sdsdsadad
+ (Bytes: 11)
+2024-07-07 19:28:00,620 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sdsd
+ (Bytes: 6)
+2024-07-07 19:28:01,633 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sdasd
+ (Bytes: 7)
+2024-07-07 19:28:02,581 INFO [vuln_check] CHECK (127.0.0.1) Incoming: asdads
+ (Bytes: 8)
+2024-07-07 19:56:49,683 INFO [vuln_check] Attacker IP: 127.0.0.1 connected Attacker IP: 127.0.0.1
+2024-07-07 19:56:49,683 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sad
+ (Bytes: 5) Attacker IP: 6
+2024-07-07 20:08:36,884 INFO [vuln_check] CHECK (127.0.0.1) Incoming: esad
+ (Bytes: 6)
+2024-07-07 20:08:37,782 INFO [vuln_check] CHECK (127.0.0.1) Incoming: asd
+ (Bytes: 5)
+2024-07-07 20:08:39,212 INFO [vuln_check] CHECK (127.0.0.1) Incoming: [A[A
+ (Bytes: 8)
+2024-07-07 20:08:48,723 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ee
+ (Bytes: 4)
+2024-07-07 20:13:29,093 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sda
+ (Bytes: 5)
+2024-07-07 20:13:44,307 INFO [vuln_check] CHECK (127.0.0.1) Incoming: dsad
+ (Bytes: 6)
+2024-07-07 20:13:45,371 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sdasd
+ (Bytes: 7)
+2024-07-07 20:14:17,285 INFO [vuln_check] CHECK (127.0.0.1) Incoming: wawe
+ (Bytes: 6)
+2024-07-07 20:14:21,673 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ipconfig
+ (Bytes: 10)
+2024-07-07 20:14:36,774 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ifconfig
+ (Bytes: 10)
+2024-07-07 20:14:43,280 INFO [vuln_check] CHECK (127.0.0.1) Incoming: netstat -an
+ (Bytes: 13)
+2024-07-08 10:39:36,392 INFO [vuln_check] CHECK (127.0.0.1) Incoming:    
+ (Bytes: 5)
+2024-07-08 10:39:38,326 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sdass
+ (Bytes: 7)
+2024-07-08 10:39:39,442 INFO [vuln_check] CHECK (127.0.0.1) Incoming: dasasd
+ (Bytes: 8)
+2024-07-08 14:37:16,252 INFO [vuln_check] CHECK (127.0.0.1) Incoming: asdas
+ (Bytes: 7)
+2024-07-08 14:39:55,637 INFO [vuln_check] CHECK (127.0.0.1) Incoming: asdasd
+ (Bytes: 8)
+2024-07-08 14:43:16,488 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sadd
+ (Bytes: 6)
+2024-07-08 14:43:19,628 INFO [vuln_check] CHECK (127.0.0.1) Incoming: dasda
+ (Bytes: 7)
+2024-07-08 14:43:20,768 INFO [vuln_check] CHECK (127.0.0.1) Incoming: asdasd
+ (Bytes: 8)
+2024-07-08 14:43:21,586 INFO [vuln_check] CHECK (127.0.0.1) Incoming: aweq
+ (Bytes: 6)
+2024-07-08 14:43:21,752 INFO [vuln_check] CHECK (127.0.0.1) Incoming: we
+ (Bytes: 4)
+2024-07-08 14:43:21,906 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-08 14:43:22,063 INFO [vuln_check] CHECK (127.0.0.1) Incoming: qwe
+ (Bytes: 5)
+2024-07-08 14:43:22,338 INFO [vuln_check] CHECK (127.0.0.1) Incoming: we
+ (Bytes: 4)
+2024-07-08 14:43:23,328 INFO [vuln_check] CHECK (127.0.0.1) Incoming: qwe
+ (Bytes: 5)
+2024-07-08 14:43:24,474 INFO [vuln_check] CHECK (127.0.0.1) Incoming: eqwe
+ (Bytes: 6)
+2024-07-08 14:43:25,555 INFO [vuln_check] CHECK (127.0.0.1) Incoming: eqwe
+ (Bytes: 6)
+2024-07-08 14:43:26,514 INFO [vuln_check] CHECK (127.0.0.1) Incoming: qweqwe
+ (Bytes: 8)
+2024-07-08 14:43:40,447 INFO [vuln_check] CHECK (127.0.0.1) Incoming: syst
+ (Bytes: 6)
+2024-07-08 14:48:39,341 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 11
+ (Bytes: 4)
+2024-07-08 14:49:45,773 INFO [vuln_check] CHECK (127.0.0.1) Incoming: asdad
+ (Bytes: 7)
+2024-07-08 14:53:12,653 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sadad
+ (Bytes: 7)
+2024-07-08 14:54:33,107 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sada
+ (Bytes: 6)
+2024-07-08 14:57:01,560 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sadas
+ (Bytes: 7)
+2024-07-08 14:57:48,682 INFO [vuln_check] CHECK (127.0.0.1) Incoming: asda
+ (Bytes: 6)
+2024-07-08 14:57:49,823 INFO [vuln_check] CHECK (127.0.0.1) Incoming: asdad
+ (Bytes: 7)
+2024-07-08 14:57:50,726 INFO [vuln_check] CHECK (127.0.0.1) Incoming: asd
+ (Bytes: 5)
+2024-07-08 15:03:47,189 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sadasd
+ (Bytes: 8)
+2024-07-08 15:03:58,699 INFO [vuln_check] CHECK (127.0.0.1) Incoming: dasd
+ (Bytes: 6)
+2024-07-08 15:05:32,168 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sad
+ (Bytes: 5)
+2024-07-08 15:05:42,508 INFO [vuln_check] CHECK (127.0.0.1) Incoming: asdasd
+ (Bytes: 8)
+2024-07-08 15:05:43,684 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sadasd
+ (Bytes: 8)
+2024-07-08 15:05:44,570 INFO [vuln_check] CHECK (127.0.0.1) Incoming: asdasd
+ (Bytes: 8)
+2024-07-08 15:05:45,335 INFO [vuln_check] CHECK (127.0.0.1) Incoming: asdads
+ (Bytes: 8)
+2024-07-08 15:05:46,090 INFO [vuln_check] CHECK (127.0.0.1) Incoming: asdads
+ (Bytes: 8)
+2024-07-08 15:05:46,688 INFO [vuln_check] CHECK (127.0.0.1) Incoming: asd
+ (Bytes: 5)
+2024-07-08 15:05:46,872 INFO [vuln_check] CHECK (127.0.0.1) Incoming: 
+ (Bytes: 2)
+2024-07-08 15:05:47,488 INFO [vuln_check] CHECK (127.0.0.1) Incoming: asdas
+ (Bytes: 7)
+2024-07-08 15:05:47,844 INFO [vuln_check] CHECK (127.0.0.1) Incoming: asd
+ (Bytes: 5)
+2024-07-08 15:05:48,262 INFO [vuln_check] CHECK (127.0.0.1) Incoming: asda
+ (Bytes: 6)
+2024-07-08 15:05:48,800 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sdasda
+ (Bytes: 8)
+2024-07-08 15:05:49,082 INFO [vuln_check] CHECK (127.0.0.1) Incoming: dsa
+ (Bytes: 5)
+2024-07-08 15:05:49,556 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sdasd
+ (Bytes: 7)
+2024-07-08 15:05:50,020 INFO [vuln_check] CHECK (127.0.0.1) Incoming: asd
+ (Bytes: 5)
+2024-07-08 15:06:06,998 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sdad
+ (Bytes: 6)
+2024-07-08 15:06:15,090 INFO [vuln_check] CHECK (127.0.0.1) Incoming: dasd
+ (Bytes: 6)
+2024-07-08 15:06:22,048 INFO [vuln_check] CHECK (127.0.0.1) Incoming: exx
+ (Bytes: 5)
+2024-07-08 15:09:45,692 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sdads
+ (Bytes: 7)
+2024-07-08 15:09:59,245 INFO [vuln_check] CHECK (127.0.0.1) Incoming: adsas
+ (Bytes: 7)
+2024-07-08 15:10:00,076 INFO [vuln_check] CHECK (127.0.0.1) Incoming: dasd
+ (Bytes: 6)
+2024-07-08 15:10:00,799 INFO [vuln_check] CHECK (127.0.0.1) Incoming: asdads
+ (Bytes: 8)
+2024-07-08 15:10:01,666 INFO [vuln_check] CHECK (127.0.0.1) Incoming: asdads
+ (Bytes: 8)
+2024-07-08 15:17:14,432 INFO [vuln_check] CHECK (127.0.0.1) Incoming: sadas
+ (Bytes: 7)
+2024-07-08 15:41:36,929 INFO [vuln_check] CHECK (127.0.0.1) Incoming: esadad
+ (Bytes: 8)
+2024-07-08 15:42:33,945 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ad
+ (Bytes: 4)
+2024-07-08 15:44:36,446 INFO [vuln_check] CHECK (127.0.0.1) Incoming: dasd
+ (Bytes: 6)
+2024-07-08 15:52:09,722 INFO [vuln_check] CHECK (127.0.0.1) Incoming: dasd
+ (Bytes: 6)
+2024-07-08 16:58:25,785 INFO [vuln_check] CHECK (127.0.0.1) Incoming: cd
+ (Bytes: 4)
+2024-07-08 16:58:43,217 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ipconfig
+ (Bytes: 10)
+2024-07-08 16:59:49,951 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ifconfig
+ (Bytes: 10)
+2024-07-08 17:00:25,181 INFO [vuln_check] CHECK (127.0.0.1) Incoming: netstat -an
+ (Bytes: 13)
+2024-07-09 10:23:15,092 INFO [vuln_check] CHECK (127.0.0.1) Incoming: hello
+ (Bytes: 7)
+2024-07-09 10:23:24,962 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ipconfig
+ (Bytes: 10)
+2024-07-09 10:23:32,347 INFO [vuln_check] CHECK (127.0.0.1) Incoming: ifconfig
+ (Bytes: 10)

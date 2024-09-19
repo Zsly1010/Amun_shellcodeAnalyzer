@@ -1,0 +1,1011 @@
+2024-06-27 17:56:46,067 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 21
+2024-06-27 17:56:46,067 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 23
+2024-06-27 17:56:46,067 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 25
+2024-06-27 17:56:46,067 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 42
+2024-06-27 17:56:46,067 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 80
+2024-06-27 17:56:46,068 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 105
+2024-06-27 17:56:46,068 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 110
+2024-06-27 17:56:46,068 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 135
+2024-06-27 17:56:46,068 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 139
+2024-06-27 17:56:46,068 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 143
+2024-06-27 17:56:46,068 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 443
+2024-06-27 17:56:46,068 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 445
+2024-06-27 17:56:46,068 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 554
+2024-06-27 17:56:46,068 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 587
+2024-06-27 17:56:46,069 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 617
+2024-06-27 17:56:46,069 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 1023
+2024-06-27 17:56:46,069 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 1025
+2024-06-27 17:56:46,069 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 1080
+2024-06-27 17:56:46,069 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 1111
+2024-06-27 17:56:46,069 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 1581
+2024-06-27 17:56:46,069 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 1900
+2024-06-27 17:56:46,069 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 2101
+2024-06-27 17:56:46,069 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 2103
+2024-06-27 17:56:46,070 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 2105
+2024-06-27 17:56:46,070 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 2107
+2024-06-27 17:56:46,070 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 2380
+2024-06-27 17:56:46,070 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 2555
+2024-06-27 17:56:46,070 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 2745
+2024-06-27 17:56:46,070 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 2954
+2024-06-27 17:56:46,070 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 2967
+2024-06-27 17:56:46,070 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 2968
+2024-06-27 17:56:46,070 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 3127
+2024-06-27 17:56:46,071 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 3128
+2024-06-27 17:56:46,071 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 3268
+2024-06-27 17:56:46,071 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 3372
+2024-06-27 17:56:46,071 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 3389
+2024-06-27 17:56:46,071 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 3628
+2024-06-27 17:56:46,071 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 5000
+2024-06-27 17:56:46,071 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 5168
+2024-06-27 17:56:46,071 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 5554
+2024-06-27 17:56:46,071 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 6070
+2024-06-27 17:56:46,072 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 6101
+2024-06-27 17:56:46,072 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 6129
+2024-06-27 17:56:46,072 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 7144
+2024-06-27 17:56:46,072 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 7547
+2024-06-27 17:56:46,072 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 8080
+2024-06-27 17:56:46,072 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 9999
+2024-06-27 17:56:46,072 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 10203
+2024-06-27 17:56:46,072 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 27347
+2024-06-27 17:56:46,073 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 38292
+2024-06-27 17:56:46,073 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 41523
+2024-06-27 18:03:00,184 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 21
+2024-06-27 18:03:00,184 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 23
+2024-06-27 18:03:00,184 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 25
+2024-06-27 18:03:00,184 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 42
+2024-06-27 18:03:00,185 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 80
+2024-06-27 18:03:00,185 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 105
+2024-06-27 18:03:00,185 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 110
+2024-06-27 18:03:00,185 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 135
+2024-06-27 18:03:00,185 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 139
+2024-06-27 18:03:00,185 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 143
+2024-06-27 18:03:00,185 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 443
+2024-06-27 18:03:00,185 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 445
+2024-06-27 18:03:00,185 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 554
+2024-06-27 18:03:00,186 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 587
+2024-06-27 18:03:00,186 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 617
+2024-06-27 18:03:00,186 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 1023
+2024-06-27 18:03:00,186 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 1025
+2024-06-27 18:03:00,186 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 1080
+2024-06-27 18:03:00,186 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 1111
+2024-06-27 18:03:00,186 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 1581
+2024-06-27 18:03:00,186 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 1900
+2024-06-27 18:03:00,186 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 2101
+2024-06-27 18:03:00,186 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 2103
+2024-06-27 18:03:00,187 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 2105
+2024-06-27 18:03:00,187 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 2107
+2024-06-27 18:03:00,187 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 2380
+2024-06-27 18:03:00,187 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 2555
+2024-06-27 18:03:00,187 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 2745
+2024-06-27 18:03:00,187 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 2954
+2024-06-27 18:03:00,187 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 2967
+2024-06-27 18:03:00,187 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 2968
+2024-06-27 18:03:00,187 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 3127
+2024-06-27 18:03:00,188 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 3128
+2024-06-27 18:03:00,188 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 3268
+2024-06-27 18:03:00,188 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 3372
+2024-06-27 18:03:00,188 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 3389
+2024-06-27 18:03:00,188 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 3628
+2024-06-27 18:03:00,188 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 5000
+2024-06-27 18:03:00,188 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 5168
+2024-06-27 18:03:00,188 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 5554
+2024-06-27 18:03:00,188 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 6070
+2024-06-27 18:03:00,189 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 6101
+2024-06-27 18:03:00,189 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 6129
+2024-06-27 18:03:00,189 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 7144
+2024-06-27 18:03:00,189 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 7547
+2024-06-27 18:03:00,189 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 8080
+2024-06-27 18:03:00,189 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 9999
+2024-06-27 18:03:00,189 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 10203
+2024-06-27 18:03:00,189 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 27347
+2024-06-27 18:03:00,190 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 38292
+2024-06-27 18:03:00,190 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 41523
+2024-06-27 18:05:38,900 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 21
+2024-06-27 18:05:38,901 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 23
+2024-06-27 18:05:38,901 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 25
+2024-06-27 18:05:38,901 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 42
+2024-06-27 18:05:38,901 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 80
+2024-06-27 18:05:38,901 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 105
+2024-06-27 18:05:38,901 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 110
+2024-06-27 18:05:38,901 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 135
+2024-06-27 18:05:38,901 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 139
+2024-06-27 18:05:38,901 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 143
+2024-06-27 18:05:38,902 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 443
+2024-06-27 18:05:38,902 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 445
+2024-06-27 18:05:38,902 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 554
+2024-06-27 18:05:38,902 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 587
+2024-06-27 18:05:38,902 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 617
+2024-06-27 18:05:38,902 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 1023
+2024-06-27 18:05:38,902 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 1025
+2024-06-27 18:05:38,902 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 1080
+2024-06-27 18:05:38,902 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 1111
+2024-06-27 18:05:38,903 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 1581
+2024-06-27 18:05:38,903 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 1900
+2024-06-27 18:05:38,903 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 2101
+2024-06-27 18:05:38,903 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 2103
+2024-06-27 18:05:38,903 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 2105
+2024-06-27 18:05:38,903 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 2107
+2024-06-27 18:05:38,903 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 2380
+2024-06-27 18:05:38,903 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 2555
+2024-06-27 18:05:38,903 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 2745
+2024-06-27 18:05:38,903 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 2954
+2024-06-27 18:05:38,904 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 2967
+2024-06-27 18:05:38,904 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 2968
+2024-06-27 18:05:38,904 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 3127
+2024-06-27 18:05:38,904 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 3128
+2024-06-27 18:05:38,904 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 3268
+2024-06-27 18:05:38,904 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 3372
+2024-06-27 18:05:38,904 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 3389
+2024-06-27 18:05:38,904 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 3628
+2024-06-27 18:05:38,904 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 5000
+2024-06-27 18:05:38,904 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 5168
+2024-06-27 18:05:38,905 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 5554
+2024-06-27 18:05:38,905 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 6070
+2024-06-27 18:05:38,905 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 6101
+2024-06-27 18:05:38,905 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 6129
+2024-06-27 18:05:38,905 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 7144
+2024-06-27 18:05:38,905 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 7547
+2024-06-27 18:05:38,905 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 8080
+2024-06-27 18:05:38,905 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 9999
+2024-06-27 18:05:38,906 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 10203
+2024-06-27 18:05:38,906 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 27347
+2024-06-27 18:05:38,906 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 38292
+2024-06-27 18:05:38,906 INFO [amun_server] Port already in use: IP: 0.0.0.0 Port: 41523
+2024-06-27 18:08:31,531 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 21
+2024-06-27 18:08:31,532 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 23
+2024-06-27 18:08:31,532 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 25
+2024-06-27 18:08:31,532 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 42
+2024-06-27 18:08:31,532 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 80
+2024-06-27 18:08:31,532 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 105
+2024-06-27 18:08:31,532 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 110
+2024-06-27 18:08:31,532 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 135
+2024-06-27 18:08:31,533 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 139
+2024-06-27 18:08:31,533 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 143
+2024-06-27 18:08:31,533 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 443
+2024-06-27 18:08:31,533 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 445
+2024-06-27 18:08:31,533 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 554
+2024-06-27 18:08:31,533 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 587
+2024-06-27 18:08:31,533 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 617
+2024-06-27 18:08:31,533 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1023
+2024-06-27 18:08:31,533 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1025
+2024-06-27 18:08:31,534 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1080
+2024-06-27 18:08:31,534 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1111
+2024-06-27 18:08:31,534 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1581
+2024-06-27 18:08:31,534 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1900
+2024-06-27 18:08:31,534 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2101
+2024-06-27 18:08:31,534 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2103
+2024-06-27 18:08:31,534 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2105
+2024-06-27 18:08:31,534 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2107
+2024-06-27 18:08:31,535 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2380
+2024-06-27 18:08:31,535 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2555
+2024-06-27 18:08:31,535 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2745
+2024-06-27 18:08:31,535 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2954
+2024-06-27 18:08:31,535 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2967
+2024-06-27 18:08:31,535 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2968
+2024-06-27 18:08:31,535 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3127
+2024-06-27 18:08:31,535 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3128
+2024-06-27 18:08:31,535 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3268
+2024-06-27 18:08:31,535 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3372
+2024-06-27 18:08:31,536 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3389
+2024-06-27 18:08:31,536 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3628
+2024-06-27 18:08:31,536 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 5000
+2024-06-27 18:08:31,536 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 5168
+2024-06-27 18:08:31,536 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 5554
+2024-06-27 18:08:31,536 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 6070
+2024-06-27 18:08:31,536 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 6101
+2024-06-27 18:08:31,536 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 6129
+2024-06-27 18:08:31,537 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 7144
+2024-06-27 18:08:31,537 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 7547
+2024-06-27 18:08:31,537 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 8080
+2024-06-27 18:08:31,537 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 9999
+2024-06-27 18:08:31,537 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 10203
+2024-06-27 18:08:31,537 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 27347
+2024-06-27 18:08:31,537 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 38292
+2024-06-27 18:08:31,537 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 41523
+2024-06-29 16:35:26,661 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 21
+2024-06-29 16:35:26,662 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 23
+2024-06-29 16:35:26,662 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 25
+2024-06-29 16:35:26,662 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 42
+2024-06-29 16:35:26,662 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 80
+2024-06-29 16:35:26,662 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 105
+2024-06-29 16:35:26,662 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 110
+2024-06-29 16:35:26,663 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 135
+2024-06-29 16:35:26,663 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 139
+2024-06-29 16:35:26,663 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 143
+2024-06-29 16:35:26,663 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 443
+2024-06-29 16:35:26,663 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 445
+2024-06-29 16:35:26,663 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 554
+2024-06-29 16:35:26,663 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 587
+2024-06-29 16:35:26,663 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 617
+2024-06-29 16:35:26,664 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1023
+2024-06-29 16:35:26,664 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1025
+2024-06-29 16:35:26,664 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1080
+2024-06-29 16:35:26,664 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1111
+2024-06-29 16:35:26,664 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1581
+2024-06-29 16:35:26,664 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1900
+2024-06-29 16:35:26,664 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2101
+2024-06-29 16:35:26,664 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2103
+2024-06-29 16:35:26,664 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2105
+2024-06-29 16:35:26,664 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2107
+2024-06-29 16:35:26,665 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2380
+2024-06-29 16:35:26,665 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2555
+2024-06-29 16:35:26,665 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2745
+2024-06-29 16:35:26,665 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2954
+2024-06-29 16:35:26,665 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2967
+2024-06-29 16:35:26,665 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2968
+2024-06-29 16:35:26,665 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3127
+2024-06-29 16:35:26,665 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3128
+2024-06-29 16:35:26,665 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3268
+2024-06-29 16:35:26,666 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3372
+2024-06-29 16:35:26,666 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3389
+2024-06-29 16:35:26,666 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3628
+2024-06-29 16:35:26,666 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 5000
+2024-06-29 16:35:26,666 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 5168
+2024-06-29 16:35:26,666 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 5554
+2024-06-29 16:35:26,666 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 6070
+2024-06-29 16:35:26,667 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 6101
+2024-06-29 16:35:26,667 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 6129
+2024-06-29 16:35:26,667 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 7144
+2024-06-29 16:35:26,667 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 7547
+2024-06-29 16:35:26,667 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 8080
+2024-06-29 16:35:26,667 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 9999
+2024-06-29 16:35:26,667 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 10203
+2024-06-29 16:35:26,667 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 27347
+2024-06-29 16:35:26,667 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 38292
+2024-06-29 16:35:26,668 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 41523
+2024-06-29 18:25:04,301 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 21
+2024-06-29 18:25:04,302 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 23
+2024-06-29 18:25:04,302 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 25
+2024-06-29 18:25:04,302 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 42
+2024-06-29 18:25:04,302 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 80
+2024-06-29 18:25:04,302 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 105
+2024-06-29 18:25:04,302 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 110
+2024-06-29 18:25:04,302 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 135
+2024-06-29 18:25:04,302 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 139
+2024-06-29 18:25:04,302 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 143
+2024-06-29 18:25:04,303 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 443
+2024-06-29 18:25:04,303 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 445
+2024-06-29 18:25:04,303 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 554
+2024-06-29 18:25:04,303 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 587
+2024-06-29 18:25:04,303 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 617
+2024-06-29 18:25:04,303 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1023
+2024-06-29 18:25:04,303 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1025
+2024-06-29 18:25:04,303 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1080
+2024-06-29 18:25:04,303 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1111
+2024-06-29 18:25:04,304 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1581
+2024-06-29 18:25:04,304 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1900
+2024-06-29 18:25:04,304 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2101
+2024-06-29 18:25:04,304 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2103
+2024-06-29 18:25:04,304 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2105
+2024-06-29 18:25:04,304 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2107
+2024-06-29 18:25:04,304 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2380
+2024-06-29 18:25:04,304 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2555
+2024-06-29 18:25:04,304 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2745
+2024-06-29 18:25:04,304 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2954
+2024-06-29 18:25:04,305 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2967
+2024-06-29 18:25:04,305 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2968
+2024-06-29 18:25:04,305 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3127
+2024-06-29 18:25:04,305 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3128
+2024-06-29 18:25:04,305 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3268
+2024-06-29 18:25:04,305 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3372
+2024-06-29 18:25:04,305 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3389
+2024-06-29 18:25:04,305 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3628
+2024-06-29 18:25:04,305 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 5000
+2024-06-29 18:25:04,305 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 5168
+2024-06-29 18:25:04,306 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 5554
+2024-06-29 18:25:04,306 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 6070
+2024-06-29 18:25:04,306 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 6101
+2024-06-29 18:25:04,306 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 6129
+2024-06-29 18:25:04,306 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 7144
+2024-06-29 18:25:04,306 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 7547
+2024-06-29 18:25:04,306 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 8080
+2024-06-29 18:25:04,306 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 9999
+2024-06-29 18:25:04,306 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 10203
+2024-06-29 18:25:04,307 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 27347
+2024-06-29 18:25:04,307 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 38292
+2024-06-29 18:25:04,307 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 41523
+2024-06-29 18:42:02,374 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 21
+2024-06-29 18:42:02,374 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 23
+2024-06-29 18:42:02,374 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 25
+2024-06-29 18:42:02,374 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 42
+2024-06-29 18:42:02,374 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 80
+2024-06-29 18:42:02,375 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 105
+2024-06-29 18:42:02,375 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 110
+2024-06-29 18:42:02,375 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 135
+2024-06-29 18:42:02,375 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 139
+2024-06-29 18:42:02,375 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 143
+2024-06-29 18:42:02,375 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 443
+2024-06-29 18:42:02,375 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 445
+2024-06-29 18:42:02,375 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 554
+2024-06-29 18:42:02,375 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 587
+2024-06-29 18:42:02,376 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 617
+2024-06-29 18:42:02,376 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1023
+2024-06-29 18:42:02,376 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1025
+2024-06-29 18:42:02,376 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1080
+2024-06-29 18:42:02,376 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1111
+2024-06-29 18:42:02,376 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1581
+2024-06-29 18:42:02,376 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1900
+2024-06-29 18:42:02,376 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2101
+2024-06-29 18:42:02,377 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2103
+2024-06-29 18:42:02,377 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2105
+2024-06-29 18:42:02,377 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2107
+2024-06-29 18:42:02,377 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2380
+2024-06-29 18:42:02,377 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2555
+2024-06-29 18:42:02,377 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2745
+2024-06-29 18:42:02,377 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2954
+2024-06-29 18:42:02,377 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2967
+2024-06-29 18:42:02,377 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2968
+2024-06-29 18:42:02,377 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3127
+2024-06-29 18:42:02,378 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3128
+2024-06-29 18:42:02,378 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3268
+2024-06-29 18:42:02,378 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3372
+2024-06-29 18:42:02,378 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3389
+2024-06-29 18:42:02,378 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3628
+2024-06-29 18:42:02,378 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 5000
+2024-06-29 18:42:02,378 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 5168
+2024-06-29 18:42:02,378 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 5554
+2024-06-29 18:42:02,378 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 6070
+2024-06-29 18:42:02,379 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 6101
+2024-06-29 18:42:02,379 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 6129
+2024-06-29 18:42:02,379 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 7144
+2024-06-29 18:42:02,379 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 7547
+2024-06-29 18:42:02,379 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 8080
+2024-06-29 18:42:02,379 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 9999
+2024-06-29 18:42:02,379 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 10203
+2024-06-29 18:42:02,379 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 27347
+2024-06-29 18:42:02,379 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 38292
+2024-06-29 18:42:02,380 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 41523
+2024-07-07 15:52:36,382 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 21
+2024-07-07 15:52:36,382 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 23
+2024-07-07 15:52:36,383 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 25
+2024-07-07 15:52:36,383 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 42
+2024-07-07 15:52:36,383 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 80
+2024-07-07 15:52:36,383 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 105
+2024-07-07 15:52:36,383 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 110
+2024-07-07 15:52:36,383 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 135
+2024-07-07 15:52:36,383 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 139
+2024-07-07 15:52:36,383 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 143
+2024-07-07 15:52:36,383 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 443
+2024-07-07 15:52:36,383 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 445
+2024-07-07 15:52:36,384 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 554
+2024-07-07 15:52:36,384 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 587
+2024-07-07 15:52:36,384 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 617
+2024-07-07 15:52:36,384 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1023
+2024-07-07 15:52:36,384 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1025
+2024-07-07 15:52:36,384 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1080
+2024-07-07 15:52:36,384 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1111
+2024-07-07 15:52:36,385 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1581
+2024-07-07 15:52:36,385 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1900
+2024-07-07 15:52:36,385 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2101
+2024-07-07 15:52:36,385 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2103
+2024-07-07 15:52:36,385 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2105
+2024-07-07 15:52:36,385 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2107
+2024-07-07 15:52:36,385 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2380
+2024-07-07 15:52:36,385 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2555
+2024-07-07 15:52:36,386 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2745
+2024-07-07 15:52:36,386 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2954
+2024-07-07 15:52:36,386 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2967
+2024-07-07 15:52:36,386 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2968
+2024-07-07 15:52:36,386 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3127
+2024-07-07 15:52:36,386 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3128
+2024-07-07 15:52:36,386 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3268
+2024-07-07 15:52:36,386 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3372
+2024-07-07 15:52:36,386 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3389
+2024-07-07 15:52:36,386 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3628
+2024-07-07 15:52:36,387 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 5000
+2024-07-07 15:52:36,387 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 5168
+2024-07-07 15:52:36,387 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 5554
+2024-07-07 15:52:36,387 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 6070
+2024-07-07 15:52:36,387 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 6101
+2024-07-07 15:52:36,387 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 6129
+2024-07-07 15:52:36,387 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 7144
+2024-07-07 15:52:36,388 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 7547
+2024-07-07 15:52:36,388 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 8080
+2024-07-07 15:52:36,388 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 9999
+2024-07-07 15:52:36,388 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 10203
+2024-07-07 15:52:36,388 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 27347
+2024-07-07 15:52:36,388 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 38292
+2024-07-07 15:52:36,388 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 41523
+2024-07-07 15:52:52,863 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 21
+2024-07-07 15:52:52,863 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 23
+2024-07-07 15:52:52,863 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 25
+2024-07-07 15:52:52,863 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 42
+2024-07-07 15:52:52,863 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 80
+2024-07-07 15:52:52,864 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 105
+2024-07-07 15:52:52,864 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 110
+2024-07-07 15:52:52,864 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 135
+2024-07-07 15:52:52,864 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 139
+2024-07-07 15:52:52,864 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 143
+2024-07-07 15:52:52,864 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 443
+2024-07-07 15:52:52,864 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 445
+2024-07-07 15:52:52,864 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 554
+2024-07-07 15:52:52,864 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 587
+2024-07-07 15:52:52,864 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 617
+2024-07-07 15:52:52,864 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1023
+2024-07-07 15:52:52,865 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1025
+2024-07-07 15:52:52,865 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1080
+2024-07-07 15:52:52,865 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1111
+2024-07-07 15:52:52,865 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1581
+2024-07-07 15:52:52,865 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1900
+2024-07-07 15:52:52,865 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2101
+2024-07-07 15:52:52,865 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2103
+2024-07-07 15:52:52,865 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2105
+2024-07-07 15:52:52,865 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2107
+2024-07-07 15:52:52,865 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2380
+2024-07-07 15:52:52,866 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2555
+2024-07-07 15:52:52,866 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2745
+2024-07-07 15:52:52,866 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2954
+2024-07-07 15:52:52,866 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2967
+2024-07-07 15:52:52,866 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2968
+2024-07-07 15:52:52,866 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3127
+2024-07-07 15:52:52,866 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3128
+2024-07-07 15:52:52,866 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3268
+2024-07-07 15:52:52,866 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3372
+2024-07-07 15:52:52,866 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3389
+2024-07-07 15:52:52,866 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3628
+2024-07-07 15:52:52,867 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 5000
+2024-07-07 15:52:52,867 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 5168
+2024-07-07 15:52:52,867 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 5554
+2024-07-07 15:52:52,867 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 6070
+2024-07-07 15:52:52,867 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 6101
+2024-07-07 15:52:52,867 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 6129
+2024-07-07 15:52:52,867 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 7144
+2024-07-07 15:52:52,867 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 7547
+2024-07-07 15:52:52,867 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 8080
+2024-07-07 15:52:52,868 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 9999
+2024-07-07 15:52:52,868 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 10203
+2024-07-07 15:52:52,868 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 27347
+2024-07-07 15:52:52,868 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 38292
+2024-07-07 15:52:52,868 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 41523
+2024-07-07 15:53:18,283 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 21
+2024-07-07 15:53:18,283 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 23
+2024-07-07 15:53:18,283 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 25
+2024-07-07 15:53:18,283 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 42
+2024-07-07 15:53:18,284 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 80
+2024-07-07 15:53:18,284 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 105
+2024-07-07 15:53:18,284 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 110
+2024-07-07 15:53:18,284 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 135
+2024-07-07 15:53:18,284 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 139
+2024-07-07 15:53:18,284 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 143
+2024-07-07 15:53:18,284 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 443
+2024-07-07 15:53:18,284 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 445
+2024-07-07 15:53:18,284 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 554
+2024-07-07 15:53:18,285 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 587
+2024-07-07 15:53:18,285 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 617
+2024-07-07 15:53:18,285 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1023
+2024-07-07 15:53:18,285 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1025
+2024-07-07 15:53:18,285 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1080
+2024-07-07 15:53:18,285 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1111
+2024-07-07 15:53:18,285 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1581
+2024-07-07 15:53:18,285 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1900
+2024-07-07 15:53:18,286 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2101
+2024-07-07 15:53:18,286 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2103
+2024-07-07 15:53:18,286 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2105
+2024-07-07 15:53:18,286 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2107
+2024-07-07 15:53:18,286 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2380
+2024-07-07 15:53:18,286 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2555
+2024-07-07 15:53:18,286 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2745
+2024-07-07 15:53:18,286 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2954
+2024-07-07 15:53:18,286 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2967
+2024-07-07 15:53:18,286 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2968
+2024-07-07 15:53:18,287 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3127
+2024-07-07 15:53:18,287 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3128
+2024-07-07 15:53:18,287 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3268
+2024-07-07 15:53:18,287 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3372
+2024-07-07 15:53:18,287 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3389
+2024-07-07 15:53:18,287 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3628
+2024-07-07 15:53:18,287 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 5000
+2024-07-07 15:53:18,287 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 5168
+2024-07-07 15:53:18,287 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 5554
+2024-07-07 15:53:18,288 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 6070
+2024-07-07 15:53:18,288 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 6101
+2024-07-07 15:53:18,288 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 6129
+2024-07-07 15:53:18,288 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 7144
+2024-07-07 15:53:18,288 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 7547
+2024-07-07 15:53:18,288 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 8080
+2024-07-07 15:53:18,288 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 9999
+2024-07-07 15:53:18,288 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 10203
+2024-07-07 15:53:18,289 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 27347
+2024-07-07 15:53:18,289 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 38292
+2024-07-07 15:53:18,289 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 41523
+2024-07-07 15:53:44,261 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 21
+2024-07-07 15:53:44,261 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 23
+2024-07-07 15:53:44,261 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 25
+2024-07-07 15:53:44,261 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 42
+2024-07-07 15:53:44,261 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 80
+2024-07-07 15:53:44,261 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 105
+2024-07-07 15:53:44,262 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 110
+2024-07-07 15:53:44,262 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 135
+2024-07-07 15:53:44,262 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 139
+2024-07-07 15:53:44,262 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 143
+2024-07-07 15:53:44,262 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 443
+2024-07-07 15:53:44,262 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 445
+2024-07-07 15:53:44,262 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 554
+2024-07-07 15:53:44,262 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 587
+2024-07-07 15:53:44,262 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 617
+2024-07-07 15:53:44,262 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1023
+2024-07-07 15:53:44,263 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1025
+2024-07-07 15:53:44,263 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1080
+2024-07-07 15:53:44,263 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1111
+2024-07-07 15:53:44,263 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1581
+2024-07-07 15:53:44,263 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1900
+2024-07-07 15:53:44,263 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2101
+2024-07-07 15:53:44,263 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2103
+2024-07-07 15:53:44,263 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2105
+2024-07-07 15:53:44,263 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2107
+2024-07-07 15:53:44,263 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2380
+2024-07-07 15:53:44,264 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2555
+2024-07-07 15:53:44,264 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2745
+2024-07-07 15:53:44,264 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2954
+2024-07-07 15:53:44,264 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2967
+2024-07-07 15:53:44,264 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2968
+2024-07-07 15:53:44,264 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3127
+2024-07-07 15:53:44,264 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3128
+2024-07-07 15:53:44,264 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3268
+2024-07-07 15:53:44,264 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3372
+2024-07-07 15:53:44,264 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3389
+2024-07-07 15:53:44,265 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3628
+2024-07-07 15:53:44,265 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 5000
+2024-07-07 15:53:44,265 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 5168
+2024-07-07 15:53:44,265 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 5554
+2024-07-07 15:53:44,265 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 6070
+2024-07-07 15:53:44,265 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 6101
+2024-07-07 15:53:44,265 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 6129
+2024-07-07 15:53:44,265 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 7144
+2024-07-07 15:53:44,265 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 7547
+2024-07-07 15:53:44,265 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 8080
+2024-07-07 15:53:44,266 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 9999
+2024-07-07 15:53:44,266 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 10203
+2024-07-07 15:53:44,266 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 27347
+2024-07-07 15:53:44,266 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 38292
+2024-07-07 15:53:44,266 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 41523
+2024-07-07 15:54:02,247 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 21
+2024-07-07 15:54:02,247 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 23
+2024-07-07 15:54:02,247 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 25
+2024-07-07 15:54:02,247 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 42
+2024-07-07 15:54:02,247 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 80
+2024-07-07 15:54:02,247 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 105
+2024-07-07 15:54:02,247 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 110
+2024-07-07 15:54:02,248 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 135
+2024-07-07 15:54:02,248 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 139
+2024-07-07 15:54:02,248 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 143
+2024-07-07 15:54:02,248 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 443
+2024-07-07 15:54:02,248 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 445
+2024-07-07 15:54:02,248 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 554
+2024-07-07 15:54:02,248 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 587
+2024-07-07 15:54:02,248 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 617
+2024-07-07 15:54:02,248 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1023
+2024-07-07 15:54:02,248 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1025
+2024-07-07 15:54:02,249 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1080
+2024-07-07 15:54:02,249 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1111
+2024-07-07 15:54:02,249 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1581
+2024-07-07 15:54:02,249 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1900
+2024-07-07 15:54:02,249 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2101
+2024-07-07 15:54:02,249 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2103
+2024-07-07 15:54:02,249 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2105
+2024-07-07 15:54:02,249 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2107
+2024-07-07 15:54:02,249 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2380
+2024-07-07 15:54:02,249 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2555
+2024-07-07 15:54:02,250 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2745
+2024-07-07 15:54:02,250 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2954
+2024-07-07 15:54:02,250 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2967
+2024-07-07 15:54:02,250 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2968
+2024-07-07 15:54:02,250 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3127
+2024-07-07 15:54:02,250 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3128
+2024-07-07 15:54:02,250 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3268
+2024-07-07 15:54:02,250 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3372
+2024-07-07 15:54:02,250 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3389
+2024-07-07 15:54:02,251 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3628
+2024-07-07 15:54:02,251 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 5000
+2024-07-07 15:54:02,251 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 5168
+2024-07-07 15:54:02,251 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 5554
+2024-07-07 15:54:02,251 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 6070
+2024-07-07 15:54:02,251 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 6101
+2024-07-07 15:54:02,251 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 6129
+2024-07-07 15:54:02,251 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 7144
+2024-07-07 15:54:02,251 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 7547
+2024-07-07 15:54:02,252 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 8080
+2024-07-07 15:54:02,252 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 9999
+2024-07-07 15:54:02,252 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 10203
+2024-07-07 15:54:02,252 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 27347
+2024-07-07 15:54:02,252 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 38292
+2024-07-07 15:54:02,252 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 41523
+2024-07-07 15:54:05,589 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 21
+2024-07-07 15:54:05,589 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 23
+2024-07-07 15:54:05,589 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 25
+2024-07-07 15:54:05,589 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 42
+2024-07-07 15:54:05,590 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 80
+2024-07-07 15:54:05,590 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 105
+2024-07-07 15:54:05,590 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 110
+2024-07-07 15:54:05,590 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 135
+2024-07-07 15:54:05,590 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 139
+2024-07-07 15:54:05,590 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 143
+2024-07-07 15:54:05,591 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 443
+2024-07-07 15:54:05,591 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 445
+2024-07-07 15:54:05,591 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 554
+2024-07-07 15:54:05,591 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 587
+2024-07-07 15:54:05,591 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 617
+2024-07-07 15:54:05,591 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1023
+2024-07-07 15:54:05,591 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1025
+2024-07-07 15:54:05,591 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1080
+2024-07-07 15:54:05,591 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1111
+2024-07-07 15:54:05,591 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1581
+2024-07-07 15:54:05,592 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 1900
+2024-07-07 15:54:05,592 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2101
+2024-07-07 15:54:05,592 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2103
+2024-07-07 15:54:05,592 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2105
+2024-07-07 15:54:05,592 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2107
+2024-07-07 15:54:05,592 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2380
+2024-07-07 15:54:05,592 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2555
+2024-07-07 15:54:05,592 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2745
+2024-07-07 15:54:05,592 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2954
+2024-07-07 15:54:05,592 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2967
+2024-07-07 15:54:05,593 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 2968
+2024-07-07 15:54:05,593 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3127
+2024-07-07 15:54:05,593 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3128
+2024-07-07 15:54:05,593 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3268
+2024-07-07 15:54:05,593 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3372
+2024-07-07 15:54:05,593 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3389
+2024-07-07 15:54:05,593 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 3628
+2024-07-07 15:54:05,593 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 5000
+2024-07-07 15:54:05,593 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 5168
+2024-07-07 15:54:05,593 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 5554
+2024-07-07 15:54:05,594 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 6070
+2024-07-07 15:54:05,594 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 6101
+2024-07-07 15:54:05,594 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 6129
+2024-07-07 15:54:05,594 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 7144
+2024-07-07 15:54:05,594 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 7547
+2024-07-07 15:54:05,594 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 8080
+2024-07-07 15:54:05,594 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 9999
+2024-07-07 15:54:05,594 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 10203
+2024-07-07 15:54:05,594 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 27347
+2024-07-07 15:54:05,595 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 38292
+2024-07-07 15:54:05,595 INFO [amun_server] Port already in use: IP: 127.0.0.1 Port: 41523
+2024-07-07 16:21:25,996 INFO [amun_server] handle_error
+2024-07-07 16:21:25,998 INFO [amun_server] Traceback (most recent call last):
+  File "/usr/local/lib/python2.6/asyncore.py", line 103, in readwrite
+    obj.handle_read_event()
+  File "/usr/local/lib/python2.6/asyncore.py", line 423, in handle_read_event
+    self.handle_accept()
+  File "amun_server.py", line 136, in handle_accept
+    addr)
+  File "core/amun_request_handler.py", line 208, in handle_incoming_connection
+    self.handle_welcome()
+  File "core/amun_request_handler.py", line 213, in handle_welcome
+    vuln_modulList = self.set_existing_connection()
+  File "core/amun_request_handler.py", line 80, in set_existing_connection
+    vuln_modulList[len(vuln_modulList)] = init_mod.vuln()
+  File "vuln_modules/vuln-check/check_modul.py", line 49, in __init__
+    if ip in ip_to_system_type:
+NameError: global name 'ip' is not defined
+
+2024-07-07 16:43:14,389 INFO [amun_server] handle_error
+2024-07-07 16:43:14,389 INFO [amun_server] Traceback (most recent call last):
+  File "/usr/local/lib/python2.6/asyncore.py", line 103, in readwrite
+    obj.handle_read_event()
+  File "/usr/local/lib/python2.6/asyncore.py", line 423, in handle_read_event
+    self.handle_accept()
+  File "amun_server.py", line 136, in handle_accept
+    addr)
+  File "core/amun_request_handler.py", line 208, in handle_incoming_connection
+    self.handle_welcome()
+  File "core/amun_request_handler.py", line 213, in handle_welcome
+    vuln_modulList = self.set_existing_connection()
+  File "core/amun_request_handler.py", line 80, in set_existing_connection
+    vuln_modulList[len(vuln_modulList)] = init_mod.vuln()
+  File "vuln_modules/vuln-check/check_modul.py", line 47, in __init__
+    self.log_obj.log("Selected system type: %s" % self.system_type, type="info")
+AttributeError: vuln instance has no attribute 'system_type'
+
+2024-07-07 16:44:33,508 INFO [amun_server] handle_error
+2024-07-07 16:44:33,509 INFO [amun_server] Traceback (most recent call last):
+  File "/usr/local/lib/python2.6/asyncore.py", line 103, in readwrite
+    obj.handle_read_event()
+  File "/usr/local/lib/python2.6/asyncore.py", line 423, in handle_read_event
+    self.handle_accept()
+  File "amun_server.py", line 136, in handle_accept
+    addr)
+  File "core/amun_request_handler.py", line 208, in handle_incoming_connection
+    self.handle_welcome()
+  File "core/amun_request_handler.py", line 213, in handle_welcome
+    vuln_modulList = self.set_existing_connection()
+  File "core/amun_request_handler.py", line 80, in set_existing_connection
+    vuln_modulList[len(vuln_modulList)] = init_mod.vuln()
+  File "vuln_modules/vuln-check/check_modul.py", line 47, in __init__
+    if self.system_type == 'Windows':
+AttributeError: vuln instance has no attribute 'system_type'
+
+2024-07-07 17:27:07,530 INFO [amun_server] handle_error
+2024-07-07 17:27:07,531 INFO [amun_server] Traceback (most recent call last):
+  File "/usr/local/lib/python2.6/asyncore.py", line 103, in readwrite
+    obj.handle_read_event()
+  File "/usr/local/lib/python2.6/asyncore.py", line 423, in handle_read_event
+    self.handle_accept()
+  File "amun_server.py", line 136, in handle_accept
+    addr)
+  File "core/amun_request_handler.py", line 208, in handle_incoming_connection
+    self.handle_welcome()
+  File "core/amun_request_handler.py", line 220, in handle_welcome
+    welcome_message = vuln_module.getWelcomeMessage()
+  File "vuln_modules/vuln-check/check_modul.py", line 100, in getWelcomeMessage
+    return self.welcome_message
+AttributeError: vuln instance has no attribute 'welcome_message'
+
+2024-07-07 18:14:41,713 INFO [amun_server] handle_error
+2024-07-07 18:14:41,713 INFO [amun_server] Traceback (most recent call last):
+  File "/usr/local/lib/python2.6/asyncore.py", line 103, in readwrite
+    obj.handle_read_event()
+  File "/usr/local/lib/python2.6/asyncore.py", line 423, in handle_read_event
+    self.handle_accept()
+  File "amun_server.py", line 136, in handle_accept
+    addr)
+  File "core/amun_request_handler.py", line 208, in handle_incoming_connection
+    self.handle_welcome()
+  File "core/amun_request_handler.py", line 213, in handle_welcome
+    vuln_modulList = self.set_existing_connection()
+  File "core/amun_request_handler.py", line 80, in set_existing_connection
+    vuln_modulList[len(vuln_modulList)] = init_mod.vuln()
+  File "vuln_modules/vuln-check/check_modul.py", line 45, in __init__
+    raise ValueError("Failed to get remote IP address")
+ValueError: Failed to get remote IP address
+
+2024-07-07 18:38:43,845 INFO [amun_server] handle_error
+2024-07-07 18:38:43,846 INFO [amun_server] Traceback (most recent call last):
+  File "/usr/local/lib/python2.6/asyncore.py", line 103, in readwrite
+    obj.handle_read_event()
+  File "/usr/local/lib/python2.6/asyncore.py", line 423, in handle_read_event
+    self.handle_accept()
+  File "amun_server.py", line 136, in handle_accept
+    addr)
+  File "core/amun_request_handler.py", line 208, in handle_incoming_connection
+    self.handle_welcome()
+  File "core/amun_request_handler.py", line 213, in handle_welcome
+    vuln_modulList = self.set_existing_connection()
+  File "core/amun_request_handler.py", line 80, in set_existing_connection
+    vuln_modulList[len(vuln_modulList)] = init_mod.vuln()
+  File "vuln_modules/vuln-check/check_modul.py", line 42, in __init__
+    self.attacker_ip = amun_request_handler.remote_ip
+AttributeError: 'module' object has no attribute 'remote_ip'
+
+2024-07-07 18:56:26,919 INFO [amun_server] handle_error
+2024-07-07 18:56:26,920 INFO [amun_server] Traceback (most recent call last):
+  File "/usr/local/lib/python2.6/asyncore.py", line 103, in readwrite
+    obj.handle_read_event()
+  File "/usr/local/lib/python2.6/asyncore.py", line 423, in handle_read_event
+    self.handle_accept()
+  File "amun_server.py", line 136, in handle_accept
+    addr)
+  File "core/amun_request_handler.py", line 209, in handle_incoming_connection
+    self.handle_welcome()
+  File "core/amun_request_handler.py", line 214, in handle_welcome
+    vuln_modulList = self.set_existing_connection()
+  File "core/amun_request_handler.py", line 81, in set_existing_connection
+    vuln_modulList[len(vuln_modulList)] = init_mod.vuln()
+  File "vuln_modules/vuln-check/check_modul.py", line 42, in __init__
+    self.attacker_ip = amun_request_handler.amun_reqhandler.getRemoteIp()
+AttributeError: class amun_reqhandler has no attribute 'getRemoteIp'
+
+2024-07-07 18:56:38,443 INFO [amun_server] handle_error
+2024-07-07 18:56:38,444 INFO [amun_server] Traceback (most recent call last):
+  File "/usr/local/lib/python2.6/asyncore.py", line 103, in readwrite
+    obj.handle_read_event()
+  File "/usr/local/lib/python2.6/asyncore.py", line 423, in handle_read_event
+    self.handle_accept()
+  File "amun_server.py", line 136, in handle_accept
+    addr)
+  File "core/amun_request_handler.py", line 209, in handle_incoming_connection
+    self.handle_welcome()
+  File "core/amun_request_handler.py", line 214, in handle_welcome
+    vuln_modulList = self.set_existing_connection()
+  File "core/amun_request_handler.py", line 81, in set_existing_connection
+    vuln_modulList[len(vuln_modulList)] = init_mod.vuln()
+  File "vuln_modules/vuln-check/check_modul.py", line 46, in __init__
+    if self.attacker_ip in self.attacker_systems:
+AttributeError: vuln instance has no attribute 'attacker_ip'
+
+2024-07-07 20:03:02,293 INFO [amun_server] handle_error
+2024-07-07 20:03:02,294 INFO [amun_server] Traceback (most recent call last):
+  File "/usr/local/lib/python2.6/asyncore.py", line 103, in readwrite
+    obj.handle_read_event()
+  File "/usr/local/lib/python2.6/asyncore.py", line 423, in handle_read_event
+    self.handle_accept()
+  File "amun_server.py", line 136, in handle_accept
+    addr)
+  File "core/amun_request_handler.py", line 210, in handle_incoming_connection
+    self.handle_welcome()
+  File "core/amun_request_handler.py", line 223, in handle_welcome
+    vuln_module.setAttaker(self.remote_ip)
+AttributeError: vuln instance has no attribute 'setAttaker'
+
+2024-07-07 20:06:35,391 INFO [amun_server] handle_error
+2024-07-07 20:06:35,391 INFO [amun_server] Traceback (most recent call last):
+  File "/usr/local/lib/python2.6/asyncore.py", line 103, in readwrite
+    obj.handle_read_event()
+  File "/usr/local/lib/python2.6/asyncore.py", line 423, in handle_read_event
+    self.handle_accept()
+  File "amun_server.py", line 136, in handle_accept
+    addr)
+  File "core/amun_request_handler.py", line 210, in handle_incoming_connection
+    self.handle_welcome()
+  File "core/amun_request_handler.py", line 226, in handle_welcome
+    vuln_module.setAttaker(self.remote_ip)
+AttributeError: vuln instance has no attribute 'setAttaker'
+
+2024-07-08 13:47:33,903 INFO [amun_server] handle_error
+2024-07-08 13:47:33,905 INFO [amun_server] Traceback (most recent call last):
+  File "/usr/local/lib/python2.6/asyncore.py", line 103, in readwrite
+    obj.handle_read_event()
+  File "/usr/local/lib/python2.6/asyncore.py", line 423, in handle_read_event
+    self.handle_accept()
+  File "amun_server.py", line 136, in handle_accept
+    addr)
+  File "core/amun_request_handler.py", line 198, in handle_incoming_connection
+    self.random_reply = self.create_random_reply()
+  File "/usr/local/lib/python2.6/asyncore.py", line 406, in __getattr__
+    %(self.__class__.__name__, attr))
+AttributeError: amun_reqhandler instance has no attribute 'create_random_reply'
+
+2024-07-08 13:51:51,057 INFO [amun_server] handle_error
+2024-07-08 13:51:51,058 INFO [amun_server] Traceback (most recent call last):
+  File "/usr/local/lib/python2.6/asyncore.py", line 103, in readwrite
+    obj.handle_read_event()
+  File "/usr/local/lib/python2.6/asyncore.py", line 423, in handle_read_event
+    self.handle_accept()
+  File "amun_server.py", line 127, in handle_accept
+    handler = amun_request_handler.amun_reqhandler(self.divLogger).handle_incoming_connection(
+  File "/usr/local/lib/python2.6/asyncore.py", line 406, in __getattr__
+    %(self.__class__.__name__, attr))
+AttributeError: amun_reqhandler instance has no attribute 'handle_incoming_connection'
+
+2024-07-08 13:53:55,762 INFO [amun_server] handle_error
+2024-07-08 13:53:55,763 INFO [amun_server] Traceback (most recent call last):
+  File "/usr/local/lib/python2.6/asyncore.py", line 103, in readwrite
+    obj.handle_read_event()
+  File "/usr/local/lib/python2.6/asyncore.py", line 423, in handle_read_event
+    self.handle_accept()
+  File "amun_server.py", line 136, in handle_accept
+    addr)
+  File "core/amun_request_handler.py", line 198, in handle_incoming_connection
+    self.random_reply = self.create_random_reply()
+  File "/usr/local/lib/python2.6/asyncore.py", line 406, in __getattr__
+    %(self.__class__.__name__, attr))
+AttributeError: amun_reqhandler instance has no attribute 'create_random_reply'
+
+2024-07-08 13:55:43,877 INFO [amun_server] handle_error
+2024-07-08 13:55:43,878 INFO [amun_server] Traceback (most recent call last):
+  File "/usr/local/lib/python2.6/asyncore.py", line 103, in readwrite
+    obj.handle_read_event()
+  File "/usr/local/lib/python2.6/asyncore.py", line 423, in handle_read_event
+    self.handle_accept()
+  File "amun_server.py", line 136, in handle_accept
+    addr)
+  File "core/amun_request_handler.py", line 198, in handle_incoming_connection
+    self.random_reply = self.create_random_reply()
+  File "/usr/local/lib/python2.6/asyncore.py", line 406, in __getattr__
+    %(self.__class__.__name__, attr))
+AttributeError: amun_reqhandler instance has no attribute 'create_random_reply'
+
+2024-07-08 13:59:47,207 INFO [amun_server] handle_error
+2024-07-08 13:59:47,208 INFO [amun_server] Traceback (most recent call last):
+  File "/usr/local/lib/python2.6/asyncore.py", line 103, in readwrite
+    obj.handle_read_event()
+  File "/usr/local/lib/python2.6/asyncore.py", line 423, in handle_read_event
+    self.handle_accept()
+  File "amun_server.py", line 136, in handle_accept
+    addr)
+  File "core/amun_request_handler.py", line 198, in handle_incoming_connection
+    self.random_reply = self.create_random_reply()
+  File "/usr/local/lib/python2.6/asyncore.py", line 406, in __getattr__
+    %(self.__class__.__name__, attr))
+AttributeError: amun_reqhandler instance has no attribute 'create_random_reply'
+
+2024-07-08 14:05:53,150 INFO [amun_server] handle_error
+2024-07-08 14:05:53,151 INFO [amun_server] Traceback (most recent call last):
+  File "/usr/local/lib/python2.6/asyncore.py", line 103, in readwrite
+    obj.handle_read_event()
+  File "/usr/local/lib/python2.6/asyncore.py", line 423, in handle_read_event
+    self.handle_accept()
+  File "amun_server.py", line 127, in handle_accept
+    handler = amun_request_handler.amun_reqhandler(self.divLogger).handle_incoming_connection(
+  File "/usr/local/lib/python2.6/asyncore.py", line 406, in __getattr__
+    %(self.__class__.__name__, attr))
+AttributeError: amun_reqhandler instance has no attribute 'handle_incoming_connection'
+
+2024-07-08 14:06:17,228 INFO [amun_server] handle_error
+2024-07-08 14:06:17,229 INFO [amun_server] Traceback (most recent call last):
+  File "/usr/local/lib/python2.6/asyncore.py", line 103, in readwrite
+    obj.handle_read_event()
+  File "/usr/local/lib/python2.6/asyncore.py", line 423, in handle_read_event
+    self.handle_accept()
+  File "amun_server.py", line 136, in handle_accept
+    addr)
+  File "core/amun_request_handler.py", line 198, in handle_incoming_connection
+    self.random_reply = self.create_random_reply()
+  File "/usr/local/lib/python2.6/asyncore.py", line 406, in __getattr__
+    %(self.__class__.__name__, attr))
+AttributeError: amun_reqhandler instance has no attribute 'create_random_reply'
+
+2024-07-08 14:07:01,891 INFO [amun_server] handle_error
+2024-07-08 14:07:01,892 INFO [amun_server] Traceback (most recent call last):
+  File "/usr/local/lib/python2.6/asyncore.py", line 103, in readwrite
+    obj.handle_read_event()
+  File "/usr/local/lib/python2.6/asyncore.py", line 423, in handle_read_event
+    self.handle_accept()
+  File "amun_server.py", line 127, in handle_accept
+    handler = amun_request_handler.amun_reqhandler(self.divLogger).handle_incoming_connection(
+  File "/usr/local/lib/python2.6/asyncore.py", line 406, in __getattr__
+    %(self.__class__.__name__, attr))
+AttributeError: amun_reqhandler instance has no attribute 'handle_incoming_connection'
+
+2024-07-08 14:08:46,412 INFO [amun_server] handle_error
+2024-07-08 14:08:46,413 INFO [amun_server] Traceback (most recent call last):
+  File "/usr/local/lib/python2.6/asyncore.py", line 103, in readwrite
+    obj.handle_read_event()
+  File "/usr/local/lib/python2.6/asyncore.py", line 423, in handle_read_event
+    self.handle_accept()
+  File "amun_server.py", line 136, in handle_accept
+    addr)
+  File "core/amun_request_handler.py", line 198, in handle_incoming_connection
+    self.random_reply = self.create_random_reply()
+  File "/usr/local/lib/python2.6/asyncore.py", line 406, in __getattr__
+    %(self.__class__.__name__, attr))
+AttributeError: amun_reqhandler instance has no attribute 'create_random_reply'
+
+2024-07-08 14:10:04,076 INFO [amun_server] handle_error
+2024-07-08 14:10:04,077 INFO [amun_server] Traceback (most recent call last):
+  File "/usr/local/lib/python2.6/asyncore.py", line 103, in readwrite
+    obj.handle_read_event()
+  File "/usr/local/lib/python2.6/asyncore.py", line 423, in handle_read_event
+    self.handle_accept()
+  File "amun_server.py", line 136, in handle_accept
+    addr)
+  File "core/amun_request_handler.py", line 198, in handle_incoming_connection
+    self.random_reply = self.create_random_reply()
+  File "/usr/local/lib/python2.6/asyncore.py", line 406, in __getattr__
+    %(self.__class__.__name__, attr))
+AttributeError: amun_reqhandler instance has no attribute 'create_random_reply'
+
+2024-07-08 14:26:34,499 INFO [amun_server] handle_error
+2024-07-08 14:26:34,500 INFO [amun_server] Traceback (most recent call last):
+  File "/usr/local/lib/python2.6/asyncore.py", line 103, in readwrite
+    obj.handle_read_event()
+  File "/usr/local/lib/python2.6/asyncore.py", line 423, in handle_read_event
+    self.handle_accept()
+  File "amun_server.py", line 136, in handle_accept
+    addr)
+  File "core/amun_request_handler.py", line 210, in handle_incoming_connection
+    self.handle_welcome()
+  File "core/amun_request_handler.py", line 232, in handle_welcome
+    if self.remote_ip not in attacker_ip:
+NameError: global name 'attacker_ip' is not defined
+
+2024-07-08 14:27:40,565 INFO [amun_server] handle_error
+2024-07-08 14:27:40,566 INFO [amun_server] Traceback (most recent call last):
+  File "/usr/local/lib/python2.6/asyncore.py", line 103, in readwrite
+    obj.handle_read_event()
+  File "/usr/local/lib/python2.6/asyncore.py", line 423, in handle_read_event
+    self.handle_accept()
+  File "amun_server.py", line 136, in handle_accept
+    addr)
+  File "core/amun_request_handler.py", line 210, in handle_incoming_connection
+    self.handle_welcome()
+  File "core/amun_request_handler.py", line 232, in handle_welcome
+    if self.remote_ip not in attacker_ip:
+NameError: global name 'attacker_ip' is not defined
+
+2024-07-08 15:49:31,510 INFO [amun_server] handle_error
+2024-07-08 15:49:31,511 INFO [amun_server] Traceback (most recent call last):
+  File "/usr/local/lib/python2.6/asyncore.py", line 103, in readwrite
+    obj.handle_read_event()
+  File "/usr/local/lib/python2.6/asyncore.py", line 423, in handle_read_event
+    self.handle_accept()
+  File "amun_server.py", line 136, in handle_accept
+    addr)
+  File "core/amun_request_handler.py", line 213, in handle_incoming_connection
+    self.handle_welcome()
+  File "core/amun_request_handler.py", line 238, in handle_welcome
+    self.log_obj.log("attacker_ip begin content: %s" % (str(self.attacker_ip)), 6, "info", False, True)
+  File "/usr/local/lib/python2.6/asyncore.py", line 406, in __getattr__
+    %(self.__class__.__name__, attr))
+AttributeError: amun_reqhandler instance has no attribute 'attacker_ip'
+

