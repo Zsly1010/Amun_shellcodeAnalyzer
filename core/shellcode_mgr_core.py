@@ -804,7 +804,6 @@ class shell_mgr:
 			match2 = self.decodersDict['php_connback_generic2'].search( self.shellcode2 )
 			match3 = self.decodersDict['php_connback_generic3'].search( self.shellcode2 )
 			match4 = self.decodersDict['php_connback_generic4'].search( self.shellcode2 )
-			#match = False;
 			if match1:
 				encoded = match1.groups()[0]
 				dec_shellcode = b64decode(encoded)
