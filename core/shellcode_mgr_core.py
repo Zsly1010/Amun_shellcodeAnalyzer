@@ -858,7 +858,6 @@ class shell_mgr:
 			match = self.decodersDict['simple_backdoors_exec'].search( self.shellcode2 )
 			match1 = self.decodersDict['simple_backdoors_exec1'].search( self.shellcode2 )
 			match2 = self.decodersDict['simple_backdoors_exec2'].search( self.shellcode2 )
-			match3 = self.decodersDict['simple_backdoors_exec3'].search( self.shellcode2 )
 			if match:
 				ip = unquote(match.groups()[0])
 				port = unquote(match.groups()[1])
@@ -892,20 +891,20 @@ class shell_mgr:
     				
     				
 			### Match reverse shell shellcode based on shellcodeAnalyzer
-			#url="http://127.0.0.1:12346/execute"
-        		#params = {"command": self.shellcode2}
-        		#response = requests.get(url, params=params).text
-        		#match = re.compile('.*\["(.*)", "(.*)"\].*', re.S).search(response)        		  
-			#if match:  
-    			#	ip = str(match.groups()[0])
-    			#	port = str(match.groups()[1])
-    			#	self.log_obj.log("found connectback shellcode (port: %s, ip: %s)" % (port, ip), 9, "info", False, True)
-    			#	self.resultSet['result'] = True
-    			#	self.resultSet['host'] = ip
-    			#	self.resultSet['port'] = port
-    			#	self.resultSet['found'] = "connbackshell"
-    			#	self.resultSet['shellcodeName'] = "connbackShell"
-    			#	return True
+			url="http://127.0.0.1:12346/execute"
+        		params = {"command": self.shellcode2}
+        		response = requests.get(url, params=params).text
+        		match = re.compile('.*\["(.*)", "(.*)"\].*', re.S).search(response)        		  
+			if match:  
+    				ip = str(match.groups()[0])
+    				port = str(match.groups()[1])
+    				self.log_obj.log("found connectback shellcode (port: %s, ip: %s)" % (port, ip), 9, "info", False, True)
+    				self.resultSet['result'] = True
+    				self.resultSet['host'] = ip
+    				self.resultSet['port'] = port
+    				self.resultSet['found'] = "connbackshell"
+    				self.resultSet['shellcodeName'] = "connbackShell"
+    				return True
 			
 			### End
 			self.resultSet['result'] = False
