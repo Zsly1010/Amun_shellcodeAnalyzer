@@ -163,23 +163,23 @@ class vuln(object):
 				self.shellcode.append(message)
 				self.stage = "SHELLCODE"
 				return resultSet
-			#elif self.stage == "HTTP_STAGE1" and bytes==1024:
-			#	resultSet["result"] = True
-			#	resultSet["accept"] = True
-			#	header = 'HTTP/1.1 200 OK\r\nServer: Apache/1.3.29 (Unix) PHP/4.3.4\r\nContent-Length: %s\r\nContent-Language: de\r\nContent-Type: text/html\r\nConnection: close\r\n\r\n' % (len(http_shellcodes.defaultReply))
-			#	resultSet["reply"] = header+self.reply
-			#	self.shellcode.append(message)
-			#	self.stage = "SHELLCODE"
-			#	return resultSet
-			#elif self.stage == "HTTP_STAGE1" and message.startswith('GET /cmd.php'):
-			#	resultSet["result"] = True
-			#	resultSet["accept"] = True
-			#	header = 'HTTP/1.1 200 OK\r\nServer: Apache/1.3.29 (Unix) PHP/4.3.4\r\nContent-Length: %s\r\nContent-Language: de\r\nContent-Type: text/html\r\nConnection: close\r\n\r\n' % (len(http_shellcodes.defaultReply))
-			#	resultSet["reply"] = header+self.reply
-			#	self.shellcode.append(message)
-			#	resultSet["shellcode"] = "".join(self.shellcode)
-			#	self.stage = "SHELLCODE"
-			#	return resultSet
+			elif self.stage == "HTTP_STAGE1" and bytes==1024:
+				resultSet["result"] = True
+				resultSet["accept"] = True
+				header = 'HTTP/1.1 200 OK\r\nServer: Apache/1.3.29 (Unix) PHP/4.3.4\r\nContent-Length: %s\r\nContent-Language: de\r\nContent-Type: text/html\r\nConnection: close\r\n\r\n' % (len(http_shellcodes.defaultReply))
+				resultSet["reply"] = header+self.reply
+				self.shellcode.append(message)
+				self.stage = "SHELLCODE"
+				return resultSet
+			elif self.stage == "HTTP_STAGE1" and message.startswith('GET /cmd.php'):
+				resultSet["result"] = True
+				resultSet["accept"] = True
+				header = 'HTTP/1.1 200 OK\r\nServer: Apache/1.3.29 (Unix) PHP/4.3.4\r\nContent-Length: %s\r\nContent-Language: de\r\nContent-Type: text/html\r\nConnection: close\r\n\r\n' % (len(http_shellcodes.defaultReply))
+				resultSet["reply"] = header+self.reply
+				self.shellcode.append(message)
+				resultSet["shellcode"] = "".join(self.shellcode)
+				self.stage = "SHELLCODE"
+				return resultSet
 			elif self.stage == "SHELLCODE":
 				if bytes==198 and self.prevStage == "IIS-1":
 					resultSet["result"] = False
