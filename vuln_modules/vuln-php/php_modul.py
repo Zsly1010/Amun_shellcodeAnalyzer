@@ -87,7 +87,7 @@ class vuln():
 			    	resultSet["result"] = True
 				resultSet["accept"] = True
 				header = 'HTTP/1.1 404 Not Found\r\nServer: Apache/1.3.29 (Unix) PHP/4.3.4\r\nContent-Length: %s\r\nContent-Language: de\r\nContent-Type: text/html\r\nConnection: close\r\n\r\n' % (len(php_shellcodes.badRequest))
-				resultSet["reply"] = header+http_shellcodes.badRequest
+				resultSet["reply"] = header+php_shellcodes.badRequest
             		return resultSet
 		except KeyboardInterrupt:
 			raise
