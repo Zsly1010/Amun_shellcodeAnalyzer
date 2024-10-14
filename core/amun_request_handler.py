@@ -441,7 +441,7 @@ class amun_reqhandler(asynchat.async_chat):
     	    						if response.decode().strip() == 'exit':
     	    							client.close()
     	    							break
-    	    						reply = shell_emu.shellInterpreter(response)	
+    	    						(_,_,reply) = shell_emu.shellInterpreter(response)	
     	    						client.send(reply)
         					client.close()
 			else:
