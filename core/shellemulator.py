@@ -87,7 +87,8 @@ class shellemulator:
 		except:
 			pass
 		### return modified prompt
-		return "{0}\n".format(reply)
+		Reply = "{0}\n".format(reply)
+		return self.prompt,closeShell,Reply
 
 	def dir(self, data):
 		""" emulate dir command """
