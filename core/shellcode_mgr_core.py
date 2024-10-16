@@ -888,7 +888,22 @@ class shell_mgr:
     				self.resultSet['shellcodeName'] = "connbackShell"
     				return True
     				
-    				
+			### Match unreal_ircd_3281_backdoor shellcode
+    			if self.displayShellCode:
+    				print "starting unreal_ircd_3281_backdoor matching"
+    				stdout.flush()
+    			match = self.decodersDict['unreal_ircd_3281_backdoor'].search( self.shellcode2)
+    			if match:
+    				ip = unquote(match.groups()[0])
+    				port = unquote(match.groups()[1])
+    				self.log_obj.log("found unreal_ircd_3281_backdoor connback shellcode (port: %s, ip: %s)" % (port, ip), 9, "info", False, True)
+    				self.resultSet['result'] = True
+    				self.resultSet['host'] = ip
+    				self.resultSet['port'] = port
+    				self.resultSet['found'] = "connbackshell"
+    				self.resultSet['shellcodeName'] = "unreal_ircd_3281_backdoor"
+    				return True
+			
 			### Match reverse shell shellcode based on shellcodeAnalyzer
 			url="http://127.0.0.1:12346/execute"
         		params = {"command": self.shellcode2}
