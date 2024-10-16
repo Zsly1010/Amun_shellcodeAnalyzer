@@ -265,7 +265,10 @@ class decoders:
 		### Linux/x86 shell reverse TCP (bind) shellcode
 		self.log("compiling Linux/x86 shell reverse TCP (bind) shellcode", 0, "info")
 		self.decodersDict['/x86'] = re.compile('.*\\x68(....)\\x66\\x68(..).*', re.S)
-		
+
+		### Metasploit payload for vulnerability unreal_ircd_3281_backdoor
+		self.log("compiling unreal_ircd_3281_backdoor shell reverse TCP shellcode", 0, "info")
+		self.decodersDict['unreal_ircd_3281_backdoor'] = re.compile(r'\btelnet\s+(\d{1,3}(?:\.\d{1,3}){3})\s+(\d{1,5})\b', re.S)
 
 	def getDecoders(self):
 		return self.decodersDict
