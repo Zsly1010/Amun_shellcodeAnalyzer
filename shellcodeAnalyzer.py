@@ -28,6 +28,8 @@ app = Flask(__name__)
 def execute_command_get():
     command = request.args.get('command')
     output = get_response(command)
+    if output==0:
+           return False
     return output
     
 if __name__ == "__main__":
