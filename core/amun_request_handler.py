@@ -431,18 +431,35 @@ class amun_reqhandler(asynchat.async_chat):
                         			# Instantiate a shellemulator object to handle attacker's input
     	                			shell_emu = shellemulator(None)
     	                			shell_emu.setConnectionInformation(self.connback_ip, self.connback_port, self.own_ip, self.own_port)
+						
     	                
                         			# Establish the TCP connection    
                         			client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     	                			client.connect((self.connback_ip, int(self.connback_port)))
+						if self.shellcode_name == 'unreal_ircd_3281_backdoor':
+    	                				client2 = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    	                				client2.connect((self.connback_ip, int(self.connback_port)))
+    	                				while True:
+	    	                				response = client.recv(4096)
+	    	                				if response.startswith("echo"):
+	    	                					client2.send(response[5:].replace(";","\r"))
+	    	                				else:
+	    	                					reply = shell_emu.shellInterpreter(response)	
+	    	    							client2.send(reply)
 
+    	                			first = True
     	                			while True:
-    	                				response = client.recv(4096)
-    	    						if response.decode().strip() == 'exit':
-    	    							client.close()
-    	    							break
-    	    						(_,_,reply) = shell_emu.shellInterpreter(response)	
-    	    						client.send(reply)
+    	                				if not first:
+	    	                				response = client.recv(4096)
+	    	    						if response.decode().strip() == 'exit':
+	    	    							client.close()
+	    	    							break
+	    	    						if response.decode().strip() == '':
+	    	    							continue
+	    	    						reply = shell_emu.shellInterpreter(response)	
+	    	    						client.send(reply)
+	    	    					else:
+	    	    						first = False
         					client.close()
 			else:
 				result = shellcodeSet
