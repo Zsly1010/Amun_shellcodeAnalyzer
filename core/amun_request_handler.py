@@ -445,7 +445,10 @@ class amun_reqhandler(asynchat.async_chat):
 	    	                					client2.send(response[5:].replace(";","\r"))
 	    	                				else:
 	    	                					reply = shell_emu.shellInterpreter(response)	
-	    	    							client2.send(reply)
+	    	    							if(isinstance(reply, tuple)):
+	    	                						client2.send(reply[2])
+	    	                					else:	
+	    	    								client2.send(reply)
 
     	                			first = True
     	                			while True:
@@ -457,7 +460,10 @@ class amun_reqhandler(asynchat.async_chat):
 	    	    						if response.decode().strip() == '':
 	    	    							continue
 	    	    						reply = shell_emu.shellInterpreter(response)	
-	    	    						client.send(reply)
+	    	    						if(isinstance(reply, tuple)):
+	    	                					client.send(reply[2])
+	    	                				else:	
+	    	    							client.send(reply)
 	    	    					else:
 	    	    						first = False
         					client.close()
