@@ -59,3 +59,12 @@ All logging information are stored in the "logs" subdirectory of your Amun insta
 ## Parameters
 
 Amun can be executed with `-a` parameter to analyse a given file for known shellcode instead of running the honeypot. 
+
+## Execution
+* Open terminals under the Amun application folder and activate the Python virtual environment
+  * `source myenv/bin/activate`
+* Run the llm_shell.py and shellcodeAnalyzer.py files separately
+  * `python3 llm_shell.py`
+  * `python3 shellcodeAnalyzer.py`
+* Execute the amun_server.py file.
+  * `sudo python2.7 amun_server.py`
