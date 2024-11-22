@@ -5,7 +5,8 @@ more sophisticated emulation and easier maintenance.
 
 ## Requirements
 
-* Pyhon >= 2.6 (no Python3 support yet)
+* Python >= 2.6 (no Python3 support yet)
+* Packages requests flask openai
 * (optional) Python Psyco (available at http://psyco.sourceforge.net/)
 * (optional) MySQLdb if submit-mysql or log-mysql is used
 * (optional) psycopg2 if log-surfnet is used
