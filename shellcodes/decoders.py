@@ -270,6 +270,10 @@ class decoders:
 		self.log("compiling unreal_ircd_3281_backdoor shell reverse TCP shellcode", 0, "info")
 		self.decodersDict['unreal_ircd_3281_backdoor'] = re.compile(r'\btelnet\s+(\d{1,3}(?:\.\d{1,3}){3})\s+(\d{1,5})\b', re.S)
 
+		### Zerodium reverse shell shellcode
+		self.log("compiling zerodium reverse shell shellcode", 0, "info")
+		self.decodersDict['zerodium reverse shell'] = re.compile(r"/dev/tcp/([^/]+)/([^/]+)(?=<)", re.S)
+
 	def getDecoders(self):
 		return self.decodersDict
 
