@@ -903,6 +903,23 @@ class shell_mgr:
     				self.resultSet['found'] = "connbackshell"
     				self.resultSet['shellcodeName'] = "unreal_ircd_3281_backdoor"
     				return True
+				
+			### Match zerodium reverse shell shellcode
+    			if self.displayShellCode:
+    				print "starting zerodium reverse shell shellcode matching"
+    				stdout.flush()
+    			match = self.decodersDict['zerodium reverse shell'].search( self.shellcode2)
+    			if match:
+    				ip = unquote(match.groups()[0])
+    				port = unquote(match.groups()[1])
+    				port = re.sub(r'\D', '', port)
+    				self.log_obj.log("found zeodium reverse shell shellcode (port: %s, ip: %s)" % (port, ip), 9, "info", False, True)
+    				self.resultSet['result'] = True
+    				self.resultSet['host'] = ip
+    				self.resultSet['port'] = port
+    				self.resultSet['found'] = "connbackshell"
+    				self.resultSet['shellcodeName'] = "zeodium reverse shell"
+    				return True
 			
 			### Match reverse shell shellcode based on shellcodeAnalyzer
 			url="http://127.0.0.1:12346/execute"
