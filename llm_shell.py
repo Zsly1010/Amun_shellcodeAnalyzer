@@ -11,7 +11,6 @@ api_key = "sk-iALwU7cnvOufvsV9cZray5cac4sXuNDfzveOv93f1Nbv5qWo"
 prompt = "You are a shell with system information Linux svr04 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u1 x86_64 GNU/Linux with distribution Debian GNU/Linux 8.11 (jessie), now that you need to simulate a bash shell, your output should look as if you executed this command, and you should not output any other text that is not part of the response of this command"
 
 
-#用chatgpt模拟shell,获得命令响应
 def get_response(message):
     client = OpenAI(
         api_key=api_key,
@@ -32,7 +31,6 @@ def get_response(message):
         print(e)
         return 0
 
-# 模拟命令的输出
 def run_command(command):
     if command == "uname -a":
         return "Linux svr04 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u1 x86_64 GNU/Linux\n"
@@ -134,7 +132,6 @@ def run_command(command):
             return f"bash: {command}: command not found\n"
         return llm_response+'\n'
 
-# 创建模拟的文件和目录结构
 def create_files():
     os.makedirs(os.path.join('.', 'etc'), exist_ok=True)
     os.makedirs(os.path.join('.', 'var', 'log'), exist_ok=True)
@@ -206,7 +203,6 @@ def create_files():
         f.write("nameserver 8.8.8.8\n"
                 "nameserver 8.8.4.4\n")
 
-# 模拟shell交互
 def simulated_shell():
     #create_files()
     while True:
