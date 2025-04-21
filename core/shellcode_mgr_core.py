@@ -936,6 +936,25 @@ class shell_mgr:
     				self.resultSet['found'] = "connbackshell"
     				self.resultSet['shellcodeName'] = "connbackShell"
     				return True
+			#else:
+    			#	url="http://127.0.0.1:12347/execute"
+        		#	params = {"command": self.shellcode2}
+        		#	response = requests.get(url, params=params).text
+        		#	start_tag = "<Vulnerability>"
+			#	end_tag = "</Vulnerability>"
+			#	start_index = response.find(start_tag)
+			#	end_index = response.find(end_tag) + len(end_tag)
+			#	xml_content = response[start_index:end_index]
+			#	pattern = r"<Name>(.*?)</Name>"
+			#	match = re.search(pattern, response)
+			#	if match:
+			#	    name_content = match.group(1)
+			#	    file_extension = ".xml"
+			#	    output_xml = os.path.join("./utils/xml_vuln_creator", f"{name_content}{file_extension}")
+			#	    with open(output_xml, "w", encoding="utf-8") as file:
+    			#		file.write(xml_content)
+			#	else:
+			#	    return False
 			
 			### End
 			self.resultSet['result'] = False
