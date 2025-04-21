@@ -64,8 +64,9 @@ Amun can be executed with `-a` parameter to analyse a given file for known shell
 ## Execution
 * Open terminals under the Amun application folder and activate the Python virtual environment
   * `source myenv/bin/activate`
-* Run the llm_shell.py and shellcodeAnalyzer.py files separately
+* Run the llm_shell.py, shellcodeAnalyzer.py and vuln_xml_generator.py files under the virtual environment separately
   * `python3 llm_shell.py`
   * `python3 shellcodeAnalyzer.py`
-* Execute the amun_server.py file.
+  * `python3 vuln_xml_generator.py`
+* Execute the amun_server.py file in another terminal.
   * `sudo python2.7 amun_server.py`
