@@ -29,6 +29,7 @@ from StringIO import StringIO
 import traceback
 import requests
 import re 
+import os
 
 from iprange import IPRange
 from amun_logging import amun_logging
@@ -847,7 +848,7 @@ class shell_mgr:
     				self.resultSet['host'] = ip
     				self.resultSet['port'] = port
     				self.resultSet['found'] = "connbackshell"
-    				self.resultSet['shellcodeName'] = "connbackShell"
+    				self.resultSet['shellcodeName'] = "Linux/x86 shell reverse TCP"
     				return True
 				
 			### Match simple_backdoors_exec shellcode
@@ -865,7 +866,7 @@ class shell_mgr:
     				self.resultSet['host'] = ip
     				self.resultSet['port'] = port
     				self.resultSet['found'] = "connbackshell"
-    				self.resultSet['shellcodeName'] = "connbackShell"
+    				self.resultSet['shellcodeName'] = "simple_backdoors_exec"
     				return True
     			if match1:
 				ip = unquote(match1.groups()[0])
@@ -875,7 +876,7 @@ class shell_mgr:
     				self.resultSet['host'] = ip
     				self.resultSet['port'] = port
     				self.resultSet['found'] = "connbackshell"
-    				self.resultSet['shellcodeName'] = "connbackShell"
+    				self.resultSet['shellcodeName'] = "simple_backdoors_exec"
     				return True
     			if match2:
     				ip = unquote(match2.groups()[0])
@@ -885,7 +886,7 @@ class shell_mgr:
     				self.resultSet['host'] = ip
     				self.resultSet['port'] = port
     				self.resultSet['found'] = "connbackshell"
-    				self.resultSet['shellcodeName'] = "connbackShell"
+    				self.resultSet['shellcodeName'] = "simple_backdoors_exec"
     				return True
     				
 			### Match unreal_ircd_3281_backdoor shellcode
@@ -934,7 +935,7 @@ class shell_mgr:
     				self.resultSet['host'] = ip
     				self.resultSet['port'] = port
     				self.resultSet['found'] = "connbackshell"
-    				self.resultSet['shellcodeName'] = "connbackShell"
+    				self.resultSet['shellcodeName'] = "connbackshell"
     				return True
 			#else:
     			#	url="http://127.0.0.1:12347/execute"
