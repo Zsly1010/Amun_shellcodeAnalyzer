@@ -411,7 +411,25 @@ class amun_reqhandler(asynchat.async_chat):
 				### update connection entry
 				self.update_existing_connection(vuln_modulList)
 				self.set_new_socket_connection()
-				
+				if result['vuln_modul']=='None' and state == 'amun_not_set':
+					url="http://127.0.0.1:12347/execute"
+					params = {"command": self.shellcode2}
+					response = requests.get(url, params=params).text
+					start_tag = "<Vulnerability>"
+					end_tag = "</Vulnerability>"
+					start_index = response.find(start_tag)
+					end_index = response.find(end_tag) + len(end_tag)
+					xml_content = response[start_index:end_index]
+					pattern = r"<Name>(.*?)</Name>"
+					match = re.search(pattern, response)
+					if match:
+					    name_content = match.group(1)
+					    file_extension = ".xml"
+					    output_xml = os.path.join("./utils/xml_vuln_creator", "%s%s" % (name_content, file_extension))
+					    with open(output_xml, "w", encoding="utf-8") as file:
+	    					file.write(xml_content)
+					else:
+					    return False
 				# reverse shell spoofing
                 		if result['shellresult'] != "None" and len(result['shellresult']) != 0:
                     			resultSet = result['shellresult'][0]
