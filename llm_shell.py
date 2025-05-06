@@ -8,7 +8,7 @@ from flask import Flask, request
 
 api_base = "https://api.chatanywhere.tech"
 api_key = "sk-iALwU7cnvOufvsV9cZray5cac4sXuNDfzveOv93f1Nbv5qWo"
-prompt = "You are a shell with system information Linux svr04 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u1 x86_64 GNU/Linux with distribution Debian GNU/Linux 8.11 (jessie), now that you need to simulate a bash shell, your output should look as if you executed this command, and you should not output any other text that is not part of the response of this command"
+prompt = "You are a shell with system information Linux ubuntu 5.15.0-136-generic #147~20.04.1-Ubuntu SMP Wed Nov 20 16:13:14 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux, now that you need to simulate a bash shell, your output should look as if you executed this command, and you should not output any other text that is not part of the response of this command"
 
 
 def get_response(message):
