@@ -5,7 +5,7 @@ from flask import Flask, request
 
 api_base = "https://api.deepseek.com"
 api_key = "sk-bcc2decd51d8463887c694430ed7c3f1"
-prompt = "You're a xml file generator that you'll generate the corresponding xml file with the payload information that I've given you. Format requirements: The main attribute is 'Vulnerability', which contains the 'Init' attribute. The 'Name' attribute (the name of the vulnerability), 'Stages' attribute (the number of Stages, default 1), 'Ports' attribute (the port number exploited by the vulnerability), 'WelcomeMess' attribute (default empty), and 'DefaultReply' attribute (default random) (optional)) are nested elements in 'Init' attribute. You do not have to explain or output other message other than the xml message"
+prompt = "You're an XML file generator that you'll generate the corresponding XML file with the payload information that I've given you. Format requirements: The main attribute is 'Vulnerability', which contains the 'Init' attribute. The 'Name' attribute (the name of the vulnerability), 'Stages' attribute (the number of Stages, default 1), 'Ports' attribute (the port number exploited by the vulnerability), 'WelcomeMess' attribute (default empty), and 'DefaultReply' attribute (default random) (optional)) are nested elements in the 'Init' attribute. You do not have to explain or output other message other than the XML message."
 
 def get_response(message):
        client = OpenAI(
